@@ -1,13 +1,13 @@
 ---
-title: v1.0.0 Released!
-summary: Hugo v1.0.0 released. Download now and follow the guide to get started in 5 minutes!
-date: 2023-01-01
+title: How to pass the CISSP from scratch
+summary: A guide on how to pass the Certified Information Systems Security Professional exam by ISC2.
+date: 2020-01-17
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - exam guide
+  - cissp
+  - isc2
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---

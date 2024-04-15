@@ -5,18 +5,27 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Documentation
-    url: docs/
+  - name: About
+    url: about/
     weight: 20
   - name: Blog
     url: blog/
     weight: 30
-  - name: Showcase
-    url: showcase/
+  - name: Training
+    url: training/
     weight: 40
-  - name: Community
-    url: community/
+  - name: Presentations
+    url: presentations/
     weight: 50
+- name: Community
+    url: community/
+    weight: 60
+- name: Offensive Security Notes
+    url: docs/
+    weight: 70
+- name: Contact
+    url: contact/
+    weight: 80
 
 sidebar:
   - identifier: more
