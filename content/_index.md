@@ -10,15 +10,15 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: G'Day
+      text: I'm Jacob Larsen, I'm an information security consultant, mentor and advisor.
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/details/docs/
+        text: Read Blog Posts
+        url: /blog/
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
-        url: /docs/
+        text: Get Training
+        url: https://google.com/
       announcement:
         text: "Announcing the release of version 2."
         link:
