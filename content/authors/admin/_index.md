@@ -47,7 +47,7 @@ highlight_name: true
 
 # Author's website URL
 website: "https://larsencyber.com"
-#---
+---
 
 # Text
 # Text
