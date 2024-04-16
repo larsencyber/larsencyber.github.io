@@ -1,8 +1,6 @@
 ---
 title: About Me
-toc: true
-reading_time: false
-pager: false
+type: landing
 
 sections:
   - block: resume-biography
