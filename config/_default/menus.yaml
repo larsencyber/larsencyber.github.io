@@ -18,14 +18,14 @@ main:
     url: /presentations/
     weight: 5
   - name: Community
-      url: /community/
-      weight: 6
+    url: /community/
+    weight: 6
   - name: Offensive Security Notes
-      url: /docs/
-      weight: 7
+    url: /docs/
+    weight: 7
   - name: Contact
-      url: /contact/
-      weight: 8
+    url: /contact/
+    weight: 8
 
 sidebar:
   - identifier: more
