@@ -17,15 +17,15 @@ main:
   - name: Presentations
     url: /presentations/
     weight: 5
-- name: Community
-    url: /community/
-    weight: 6
-- name: Offensive Security Notes
-    url: /docs/
-    weight: 7
-- name: Contact
-    url: /contact/
-    weight: 8
+  - name: Community
+      url: /community/
+      weight: 6
+  - name: Offensive Security Notes
+      url: /docs/
+      weight: 7
+  - name: Contact
+      url: /contact/
+      weight: 8
 
 sidebar:
   - identifier: more
