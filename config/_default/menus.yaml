@@ -4,28 +4,28 @@
 main:
   - name: Home
     url: /
-    weight: 10
+    weight: 1
   - name: About
     url: /about/
-    weight: 20
+    weight: 2
   - name: Blog
     url: /blog/
-    weight: 30
+    weight: 3
   - name: Training
     url: /training/
-    weight: 40
+    weight: 4
   - name: Presentations
     url: /presentations/
-    weight: 50
+    weight: 5
 - name: Community
     url: /community/
-    weight: 60
+    weight: 6
 - name: Offensive Security Notes
     url: /docs/
-    weight: 70
+    weight: 7
 - name: Contact
     url: /contact/
-    weight: 80
+    weight: 8
 
 sidebar:
   - identifier: more
