@@ -3,7 +3,6 @@ title: About Me
 toc: true
 reading_time: false
 pager: false
----
 
 sections:
   - block: resume-biography
@@ -41,3 +40,4 @@ sections:
       title: Awards
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
+---
