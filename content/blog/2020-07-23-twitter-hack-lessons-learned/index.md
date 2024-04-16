@@ -16,5 +16,4 @@ On Wednesday 15th July 2020, 45 of 130 targeted Twitter accounts belonging to th
 
 ![image1](/blog/2020-07-23-twitter-hack-lessons-learned/img1.jpg)
 
-Text
-... 
+Text 
