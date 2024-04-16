@@ -6,25 +6,25 @@ main:
     url: /
     weight: 10
   - name: About
-    url: about/
+    url: /about/
     weight: 20
   - name: Blog
-    url: blog/
+    url: /blog/
     weight: 30
   - name: Training
-    url: training/
+    url: /training/
     weight: 40
   - name: Presentations
-    url: presentations/
+    url: /presentations/
     weight: 50
 - name: Community
-    url: community/
+    url: /community/
     weight: 60
 - name: Offensive Security Notes
-    url: docs/
+    url: /docs/
     weight: 70
 - name: Contact
-    url: contact/
+    url: /contact/
     weight: 80
 
 sidebar:
