@@ -9,6 +9,8 @@ tags:
   - twitter hack
   - lessons learned
   - cyber security
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 ## Summary of Events
