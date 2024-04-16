@@ -3,7 +3,7 @@ title: About Me
 type: landing
 
 sections:
- - block: resume-biography
+- block: resume-biography
     content:
       # The user's folder name in `content/authors/`
       username: admin
@@ -19,7 +19,7 @@ sections:
       biography:
         # Customize the CSS style of your biography text (optional)
         style: ''
- - block: resume-experience
+- block: resume-experience
     content:
       # The user's folder name in `content/authors/`
       username: admin
@@ -28,12 +28,12 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
- - block: resume-skills
+- block: resume-skills
     content:
       title: Skills & Hobbies
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
- - block: resume-awards
+- block: resume-awards
     content:
       title: Awards
       # Note: `username` refers to the user's folder name in `content/authors/`
