@@ -23,7 +23,7 @@ This article describes the events that led to the recent Twitter account comprom
 ## 1. Summary of Events
 "On Wednesday 15th July 2020, 45 of 130 targeted Twitter accounts belonging to the world's most recognisable figures were compromised. Accounts included investment mogul Warren Buffet, business magnate Bill Gates, Tesla CEO Elon Musk, Amazon CEO Jeff Bezos, presidential candidate Joe Biden, presidential candidate Mike Bloomberg and ex-president Barrack Obamap[1]."
 
-![**JoeBidenHacked**](/content/blog/2020-07-23-twitter-hack-lessons-learned/img1.jpg)
+![**JoeBidenHacked**](/blog/2020-07-23-twitter-hack-lessons-learned/img1.jpg)
 
 ## How to Upgrade
 
