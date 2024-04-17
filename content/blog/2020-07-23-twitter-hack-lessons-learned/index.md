@@ -21,16 +21,12 @@ This article describes the events that led to the recent Twitter account comprom
 5. References
 
 ## 1. Summary of Events
-"On Wednesday 15th July 2020, 45 of 130 targeted Twitter accounts belonging to the world's most recognisable figures were compromised. Accounts included investment mogul Warren Buffet, business magnate Bill Gates, Tesla CEO Elon Musk, Amazon CEO Jeff Bezos, presidential candidate Joe Biden, presidential candidate Mike Bloomberg and ex-president Barrack Obamap[1]."
+On Wednesday 15th July 2020, 45 of 130 targeted Twitter accounts belonging to the world's most recognisable figures were compromised. Accounts included investment mogul Warren Buffet, business magnate Bill Gates, Tesla CEO Elon Musk, Amazon CEO Jeff Bezos, presidential candidate Joe Biden, presidential candidate Mike Bloomberg and ex-president Barrack Obamap[1].
 
 ![**JoeBidenHacked**](/blog/2020-07-23-twitter-hack-lessons-learned/img1.jpg)
 
-## How to Upgrade
+The accounts had been identified as compromised after they began posting statements about a bitcoin scam giveaway called "CryptoForHealth", which enticed victims into sending their own bitcoin to the perpetrator's wallet, under the impression they would receive double of what they had sent in return[2]. At present time, the bitcoin wallet has received over 400 transactions accumulating almost 13 stolen bitcoin, worth approximately USD $118,000[3]. However, the true count of victims and scammed bitcoin could have been much higher as various cryptocurrency exchanges and wallets indicated that they had blocked thousands of withdrawals to the perpetrator's wallet[4].
 
-Simply run the following command in your terminal:
+![**FakeEthereumScam**](/blog/2020-07-23-twitter-hack-lessons-learned/img2.png)
 
-```bash
-hugo mod get -u github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind@main
-```
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.
+![**DiscordMessages**](/blog/2020-07-23-twitter-hack-lessons-learned/img3.png)
