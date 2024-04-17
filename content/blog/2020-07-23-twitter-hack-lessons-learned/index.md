@@ -11,24 +11,19 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
+This article describes the events that led to the recent Twitter account compromise, the techniques the cyber threat used, why the impact could have been much more catastrophic, and lessons learned that your organisation could incorporate to uplift cyber security maturity.
 
-Hugo v2.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.
+## Table of Contents
+1. Summary of Events
+2. Method of Compromise
+3. Threat Actor Evaluation
+4. Lessons Learned
+5. References
 
-Highlights include:
+## 1. Summary of Events
+"On Wednesday 15th July 2020, 45 of 130 targeted Twitter accounts belonging to the world's most recognisable figures were compromised. Accounts included investment mogul Warren Buffet, business magnate Bill Gates, Tesla CEO Elon Musk, Amazon CEO Jeff Bezos, presidential candidate Joe Biden, presidential candidate Mike Bloomberg and ex-president Barrack Obamap[1]."
 
-- New config options
-- Improved accessibility
-- Customizable image optimization in Markdown
-
-Thank you to everyone who contributed to this release!
-
-## New Features
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.
-
-## Bug Fixes
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.
+![**JoeBidenHacked**](/content/blog/2020-07-23-twitter-hack-lessons-learned/img1.jpg)
 
 ## How to Upgrade
 
