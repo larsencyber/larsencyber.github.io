@@ -1,6 +1,6 @@
 ---
 title: Twitter Hack: Lessons learned and why it could have been worse
-summary: This article describes the events that led to the recent Twitter account compromise, the techniques the cyber threat used, why the impact could have been much more catastrophic, and lessons learned that your organisation could incorporate to uplift cyber security maturity.
+summary: This article describes the events that led to the 2020 Twitter account compromise.
 date: 2020-07-23
 authors:
   - admin
