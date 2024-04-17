@@ -1,5 +1,5 @@
 ---
-title: Twitter Hack: Lessons learned and why it could have been worse
+title: "Twitter Hack: Lessons learned and why it could have been worse"
 summary: This article describes the events that led to the 2020 Twitter account compromise.
 date: 2020-07-23
 authors:
