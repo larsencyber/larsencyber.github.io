@@ -17,8 +17,8 @@ superuser: true
 role: Offensive Security Team Lead
 
 # Organizations/Affiliations to show in About widget
-#organizations:
-  #- name: Stanford University
+# organizations:
+  # - name: Stanford University
    # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,10 +35,10 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/larsencyber
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  #- icon: academicons/cv
+  # - icon: academicons/cv
   #  url: uploads/resume.pdf
   #  label: Download my resume
-  #- icon: rss
+  # - icon: rss
   #  url: ./post/index.xml
   #  label: Subscribe to my blog via RSS feed
 
