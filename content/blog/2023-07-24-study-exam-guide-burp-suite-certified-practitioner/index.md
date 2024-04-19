@@ -32,7 +32,7 @@ Before you can sit the exam, it is mandatory to complete the following practice 
 * [Exploiting HTTP request smuggling to capture other users’ requests](https://portswigger.net/web-security/request-smuggling/exploiting/lab-capture-other-users-requests).
 * [SSRF with blacklist-based input filter](https://portswigger.net/web-security/ssrf/lab-ssrf-with-blacklist-filter).
 * [SQL injection with filter bypass via XML encoding](https://portswigger.net/web-security/sql-injection/lab-sql-injection-with-filter-bypass-via-xml-encoding).
-* [Discovering vulnerabilities with targeted scanning](https://portswigger.net/web-security/essential-skills/using-burp-scanner-during-manual-testing/lab-discovering-vulnerabilities-quickly-with-targeted-scanning
+* [Discovering vulnerabilities with targeted scanning](https://portswigger.net/web-security/essential-skills/using-burp-scanner-during-manual-testing/lab-discovering-vulnerabilities-quickly-with-targeted-scanning)
 3. Complete five (5) mystery lab challenges without knowing the objective.
 4. Take and pass the practice exam within two (2) hours.
 
