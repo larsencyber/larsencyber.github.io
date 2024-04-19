@@ -61,7 +61,7 @@ Completing an internship can be a great opportunity to develop industry specific
 ### #6 - Volunteer or network at a local industry event.
 Finally, networking will be an essential tool to grow in your professional career. Networking is not only about trading information, but also serves as an avenue to create long term relationships with mutual benefits. This article by Forbes explains very well the importance of networking, and I highly recommend you read it. Recent cyber security graduates should consider volunteering at or attending any of the following events in Perth, Australia:
 * [Students of Cyber Industry Connect Events](https://www.linkedin.com/showcase/studentsofcyber/)
-* [Second Thursday Of The Month (STOTM) Club)[https://www.linkedin.com/groups/7053348/]
+* [Second Thursday Of The Month (STOTM) Club](https://www.linkedin.com/groups/7053348/)
 * [SecTalks Perth Meetups](https://www.meetup.com/en-AU/SecTalks-Perth/)
 * [BSides Perth Conference](https://bsidesperth.com.au/)
 * [Australian Information Security Association (AISA) Sec Conference](https://aisa.org.au/Public/Events/Event_Display.aspx?EventKey=10c6dbf3-5485-434c-b2cc-9749fa902b26)
