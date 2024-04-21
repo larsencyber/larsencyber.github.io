@@ -8,6 +8,8 @@ tags:
   - career development
   - burp suite certified practitioner
   - mentorship
+image:
+  caption: 'Image credit: My BSCP Certificate'
 ---
 I was issued the BSCP certificate on Monday 8th May 2023, and as I was the first one in my team to do it I thought it would be useful to create a study and exam guide for others. My certification can be found [here](https://portswigger.net/web-security/e/c/c13dedf1f6ae2f481).
 
