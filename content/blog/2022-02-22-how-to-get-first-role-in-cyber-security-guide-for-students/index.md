@@ -1,6 +1,6 @@
 ---
 title: Answering "How do I get my first role in Cyber Security?"
-summary: A guide for Australian students to land their first role in cyber security.
+summary: Despite mainstream media, boot camps and universities claiming there is a cyber security skills shortage, and that you can become a professional "in just 24 weeks", it hasn't been made clear that the shortage is of experienced professionals, and not entry level candidates. This creates a "chicken and the egg" scenario, as individuals struggle to secure their first role. This article provides advice on steps you can take to secure your first cyber role in Australia. 
 date: 2022-02-22
 authors:
   - admin

@@ -1,6 +1,6 @@
 ---
 title: "Twitter Hack: Lessons learned and why it could have been worse"
-summary: This article describes the events that led to the 2020 Twitter account compromise.
+summary: In July 2020, hundreds of the world's most recognisable figures had their Twitter accounts compromised, such as Warren Buffet, Bill Gates, Elon Meosk, Jeff Bezoes, Joe Biden and more, to spread a cryptocurrency scam. This article describes the events that led to the compromise, the techniques used by the threat actor, an evaluation of their sophistication and objectives, why it could have been worse, and finally lessons learned. 
 date: 2020-07-23
 authors:
   - admin
