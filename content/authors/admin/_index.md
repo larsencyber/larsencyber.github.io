@@ -179,4 +179,4 @@ awards:
 ---
 I am an experienced cyber security practitioner with over 5 years of experience working in advisory and customer facing roles, including my current role as an Offensive Security Team Lead. I simultaneously deliver and lead a team of penetration testers to execute technical security assessments to secure customer's applications and infrastructure. 
 
-I also enjoy researching the cyber crime landscape, tracking initial access brokers, sim swappers, crypto drainers, espionage specialists, exploit developers, violence-as-a-service, doxxers and more for my own threat research projects. 
+I also enjoy researching the cyber crime landscape, tracking initial access brokers, sim swappers, crypto drainers, espionage specialists, exploit developers, violence-as-a-service, doxxers and more for my own threat research publications.
