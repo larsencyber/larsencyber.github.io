@@ -89,3 +89,35 @@ I noticed that majority of the YouTube channels online or included in the “Com
 * [Rana Khalil](https://www.youtube.com/@RanaKhalil101/videos)
 * [Seven Seas Security](https://www.youtube.com/@7SeasSecurity/videos)
 
+## Exam Tips & Tricks
+These are my tips and tricks to assist with passing the exam:
+1. Read the exam [hints and guidance](https://portswigger.net/web-security/certification/exam-hints-and-guidance) and [what the exam involves](https://portswigger.net/web-security/certification/how-it-works#what-the-exam-involves) pages.
+* Outbound traffic is restricted except for the public Burp Collaborator server and integrated exploit server.
+* No pages or files are intentionally hidden, you never need to guess folders, filenames or parameter names.
+* There is always an administrator account with the username “administrator”, plus a lower-privileged account called “carlos”.
+* If you find a username enumeration vulnerability, you may be able to break into the low-privileged account using the following [username list](https://portswigger.net/web-security/authentication/auth-lab-usernames) and [password list](https://portswigger.net/web-security/authentication/auth-lab-passwords).
+* Each application has up to one active user, who will be logged in either as a user or an administrator. You can assume that they will visit the homepage of the site every 15 seconds, and click any links in any emails they receive from the application.
+* If you find an SSRF vulnerability, you can use it to read files by accessing an internal-only service service, running on localhost on port 6566.
+* Host header attacks are fair game, but the _lab and lab-analytics cookies are part of core exam functionality, don’t waste your time tampering with them.
+* The victim is running Chromium. When using the XSS Cheat Sheet, focus on vectors that work on Chrome (e.g. Burp Browser).
+2. Use the automated content discovery feature within Burp Suite to identify new functionality.
+* You can use Burp’s automated discovery tool to discover hidden directories, files and endpoints.
+* When you have completed a stage of the exam, be sure to identify what new functionality is available. For example, after you have obtained a user account, identify which additional functionality wasn’t accessible when unauthenticated.
+* There is a [guide here](https://portswigger.net/burp/documentation/desktop/testing-workflow/mapping/hidden-content/automated-discovery) on how to use the content discovery feature.
+* This is a [wordlist](https://raw.githubusercontent.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study/main/wordlists/burp-labs-wordlist.txt) for directory fuzzing that is based on all of the practice labs.
+3. Use the targeted scanning feature within Burp Suite to identify vulnerabilities to exploit.
+* You won’t have time to manually identify all vulnerabilities to exploit within the exam.
+* Start scanning as soon as possible, and focus on scanning specific insertion points or particular HTTP requests to ensure results are available quickly.
+* Consider creating custom audit configurations within the scanning feature for vulnerabilities you are most interested in.
+* This [page](https://portswigger.net/web-security/essential-skills/using-burp-scanner-during-manual-testing#scanning-a-specific-request) will show you how to scan a specific request and scan custom insertion points
+4. Ensure you are focusing on vulnerabilities which are only relevant to the stage you are on.
+* The three stages of the exam must be completed in order.
+* This means that attempting to break into the admin interface if you don’t have a user account is a waste of time.
+* Likewise, do not attempt to be reading files on the server’s file system if you don’t have access to the admin panel.
+* The following table gives a good visual overview of which vulnerabilities apply at which stage:
+![**Vulnerabilities Per Stage BSCP**](/blog/2023-07-24-study-exam-guide-burp-suite-certified-practitioner/vulns-per-stage-bscp.png)
+5. Save your own personal notes and write-ups for the labs which include Proof-of-Concept (PoC) code.
+* PortSwigger includes PoC code for exploiting the practice labs in the solutions.
+* Save a copy of this for all of the practitioner labs in your own personal notes/wiki to refer to during the exam.
+* I personally encountered functionality in the exam which I had seen in the practitioner labs, and was able to refer to my notes and modify the exploit code slightly to suit my needs.
+* If you have the time, modify all of your PoC code from the practice labs to be suitable for the exam. For example, a lot of the XSS labs require you to simply call the print function. You can modify these to steal cookies instead which will be much more useful in the exam.
