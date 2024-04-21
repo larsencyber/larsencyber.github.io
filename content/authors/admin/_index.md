@@ -177,4 +177,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I have a deep interest in threat research, and work as an offensive security team lead. I have a diverse background in strategic cyber advisory roles. 
+I am currently an Offensive Security Team Lead at CyberCX, where I simultenously deliver and lead penetration testers to execute technical security assessments for clients. I enjoy cultivating and developing high performing teams who provide industry leading services to protect our customer's infrastructure and systems. 
