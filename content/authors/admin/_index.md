@@ -93,16 +93,19 @@ education:
     date_start: 2016-01-01
     date_end: 2019-06-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    ''
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: Certified Red Team Operator (CRTO)
+    institution: Zero Point Security
+    date_start: 2023-0-19
+    date_end: 2023-09-19
     summary: |
-      GPA: 3.8/4.0
+      ''
+    button:
+      text: 'View Certificate'
+      url: 'https://eu.badgr.com/public/assertions/I3ulU_uXTwyxyYywE8Soew'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

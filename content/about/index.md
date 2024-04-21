@@ -1,7 +1,6 @@
 ---
 title: About Me
 type: landing
-type: landing
 
 design:
   # Default section spacing
@@ -39,10 +38,6 @@ sections:
       username: admin
   - block: awards
     content:
-      title: Awards
-      username: admin
-  - block: languages
-    content:
-      title: Languages
+      title: Industry Participation
       username: admin
 ---
