@@ -99,17 +99,38 @@ education:
     button:
       text: 'View Certificate'
       url: 'https://eu.badgr.com/public/assertions/I3ulU_uXTwyxyYywE8Soew'
+  - area: Offensive Security Certified Practitioner (OSCP)
+    institution: Offensive Security
+    date_start: 2023-07-01
+    date_end: 2023-07-01
+    button:
+      text: 'View Certificate'
+      url: 'https://www.credential.net/658940ac-2079-42f0-a517-6ee522e45da5'
+  - area: Burp Suite Certified Practitioner (BSCP)
+    institution: PortSwigger
+    date_start: 2023-05-08
+    date_end: 2023-05-08
+    button:
+      text: 'View Certificate'
+      url: 'https://portswigger.net/web-security/e/c/c13dedf1f6ae2f48'
+  - area: Certified Information Systems Security Professional (CISSP)
+    institution: ISC2
+    date_start: 2019-12-01
+    date_end: 2019-12-01
+    button:
+      text: 'View Certificate'
+      url: 'https://www.credly.com/badges/bee5ffc2-9ef0-425d-833e-a68fd4a10d8d/public_url'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: 'Text goes here blah blah blah'
+      - name: Cyber Threat Proficiency
+        description: 'Excellent understanding of infrastructure, malware, execution chains and evasion techniques used by threat actors.'
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: 
         description: ''
         percent: 100
         icon: devicon/rstudio
@@ -117,20 +138,20 @@ skills:
         description: ''
         percent: 40
         icon: devicon/pytorch
-  - name: Hobbies
+  - name: Professional Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Critical Thinking
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Communication
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
+      - name: Leadership
+        description: 'Consistent, dependable and reliable. Strong emotional intelligence to foster a collaboratige culture, embracing diversity.'
         percent: 80
         icon: camera
 

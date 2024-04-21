@@ -38,6 +38,6 @@ sections:
       username: admin
   - block: awards
     content:
-      title: awards
+      title: Industry Participation
       username: admin
 ---
