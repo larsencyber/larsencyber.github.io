@@ -94,9 +94,6 @@ education:
     date_end: 2019-06-01
     summary: |
     ''
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com'
   - area: Certified Red Team Operator (CRTO)
     institution: Zero Point Security
     date_start: 2023-0-19
