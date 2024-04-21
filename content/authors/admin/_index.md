@@ -118,26 +118,30 @@ skills:
     items:
       - name: Cyber Threat Proficiency
         description: 'Excellent understanding of infrastructure, malware, execution chains and evasion techniques used by threat actors.'
-        percent: 80
+        percent: 90
         icon: devicon/python
-      - name: 
-        description: ''
+      - name: Comprehensive Understanding of Adversary Tradecraft
+        description: 'Developed through practical experience as an offensive security lead, exploiting vulnerabilities, performing privilege escalation and lateral movement.'
         percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
+      - name: Enterprise IT Network Design
+        description: 'Experience from architecting a hybrid on-prem and cloud based Defence secure research enclave.'
+        percent: 80
+        icon: devicon/pytorch
+      - name: Open Source Intelligence Assessments
+        description: 'Domain expert in OSINT investigations for ultra-high net worth family offices.'
+        percent: 80
         icon: devicon/pytorch
   - name: Professional Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Critical Thinking
-        description: ''
+        description: 'Investigative mindset to understand complex problems, develop intuition and identify out-of-the-box solutions.'
         percent: 60
         icon: person-simple-walk
       - name: Communication
-        description: ''
+        description: 'Confidence to tailor communication style to a wide range of stakeholders, from engineers to CISOs.'
         percent: 100
         icon: cat
       - name: Leadership
