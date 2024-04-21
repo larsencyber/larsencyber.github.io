@@ -66,15 +66,15 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: 'starters/documentation/content'
     branch: 'main'
-  feedback:
-    responses:
-      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new).'
-      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
+  #feedback:
+    #responses:
+    #  positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new).'
+    #  negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
   comment:
     provider: ''
     giscus:
