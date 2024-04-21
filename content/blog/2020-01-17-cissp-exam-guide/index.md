@@ -1,6 +1,6 @@
 ---
 title: How to pass the Certified Informations Systems Security Professional (CISSP) from scratch
-summary: The CISSP exam was always put on a pedestal as being one of the hardest exams any cyber security manager could complete. However, in 2019 I passed the exam with less than 1 year of experience, and prepared this guide to show others how they can prepare for it.
+summary: The CISSP exam was always put on a pedestal as being one of the hardest exams any cyber security manager could complete. However, in 2019 I passed the exam with less than 1 year of experience, and prepared this guide to show others how they can do the same. 
 date: 2020-01-17
 authors:
   - admin
