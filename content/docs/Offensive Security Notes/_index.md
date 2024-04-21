@@ -1,5 +1,5 @@
 ---
-title: Guide
+title: Offensive Securtity Notes
 weight: 2
 sidebar:
   open: true

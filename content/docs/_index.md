@@ -1,13 +1,11 @@
 ---
-linkTitle: Documentation
-title: Introduction
+linkTitle: Hello World
+title: Hello World
 ---
 
-👋 Welcome to the demo of the Hugo Blox Documentation template!
+👋 Yo! What's up.
 
-<!--more-->
-
-This site is a demo of the Hugo Blox Documentation theme. For the full documentation on how to use this template, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+Thanks for checking out my offensive security note page. This is a work in progress, and just includes some of my go-to notes for penetration testing. 
 
 ## Next
 
