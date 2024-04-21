@@ -55,18 +55,14 @@ work:
     company_logo: ''
     date_start: 2023-03-01
     date_end: ''
-    summary: |-
-      Responsibilities include:
-      - Text
+    summary: ''
   - position: Manager - Governance, Risk & Compliance
     company_name: CyberCX
     company_url: ''
     company_logo: ''
     date_start: 2020-11-01
     date_end: 2023-03-01
-    summary: |
-      Responsibilities include:
-      - Text
+    summary: ''
   - position: Intelligence Analyst - Digital Forensics, Incident & Response
     company_name: CyberCX
     company_url: ''
@@ -75,17 +71,13 @@ work:
     date_end: 2021-11-01
     summary: |
       (secondment)
-      Responsibilities include:
-      - Text
   - position: Defensive Security Specialist
     company_name: Diamond Cyber Security
     company_url: ''
     company_logo: ''
     date_start: 2019-01-01
     date_end: 2020-08-01
-    summary: |
-      Responsibilities include:
-      - Text
+    summary: ''
 
 education:
   - area: Bachelor of Counterterrorism, Security and Intelligence
