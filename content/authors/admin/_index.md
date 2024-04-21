@@ -92,14 +92,12 @@ education:
     institution: Edith Cowan University
     date_start: 2016-01-01
     date_end: 2019-06-01
-    summary: |
-    ''
+    summary: 
   - area: Certified Red Team Operator (CRTO)
     institution: Zero Point Security
     date_start: 2023-0-19
     date_end: 2023-09-19
-    summary: |
-      ''
+    summary:
     button:
       text: 'View Certificate'
       url: 'https://eu.badgr.com/public/assertions/I3ulU_uXTwyxyYywE8Soew'
