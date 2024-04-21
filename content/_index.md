@@ -12,7 +12,6 @@ sections:
     content:
       title: G'Day, I'm Jacob Larsen
       text: I'm an offensive security consultant, threat researcher, and mentor.
-      text: Welcome to my website and blog. Here I write about topics related to offensive security
       primary_action:
         text: Read Blog Posts
         url: /blog/
