@@ -48,3 +48,44 @@ It is highly recommended to complete all of the Apprentice (52 qty) and Practiti
 
 Following the [Web Security Academy Learning Path](https://portswigger.net/web-security/learning-path), you can learn these topics and complete the labs in an order of beginner to advanced. Each lab is typically accompanied by a learning page which explains both visually and with verbose text how the technique works.
 
+### Beginner Labs:
+1. SQL Injection — [18 Labs](https://portswigger.net/web-security/all-labs#sql-injection)
+2. Authentication — [14 Labs](https://portswigger.net/web-security/all-labs#authentication)
+3. Path Traversal — [6 Labs](https://portswigger.net/web-security/all-labs#path-traversal)
+4. OS Command Injection — [5 Labs](https://portswigger.net/web-security/all-labs#os-command-injection)
+5. Business Logic Vulnerabilities — [11 Labs](https://portswigger.net/web-security/all-labs#business-logic-vulnerabilities)
+6. Information Disclosure — [5 Labs](https://portswigger.net/web-security/all-labs#information-disclosure)
+7. Access Control — [13 Labs](https://portswigger.net/web-security/all-labs#access-control-vulnerabilities)
+8. File Upload Vulnerabilities — [7 Labs](https://portswigger.net/web-security/all-labs#file-upload-vulnerabilities)
+9. Server-Side Request Forgery — [7 Labs](https://portswigger.net/web-security/all-labs#server-side-request-forgery-ssrf)
+10. XXE Injection — [9 Labs](https://portswigger.net/web-security/all-labs#xml-external-entity-xxe-injection)
+
+### Intermediate Labs:
+1. Cross-Site Scripting — [30 Labs](https://portswigger.net/web-security/all-labs#cross-site-scripting)
+2. Cross-Site Request Forgery — [12 Labs](https://portswigger.net/web-security/all-labs#cross-site-request-forgery-csrf)
+3. Cross-Origin Resource Sharing — [4 Labs](https://portswigger.net/web-security/all-labs#cross-origin-resource-sharing-cors)
+4. Clickjacking — [5 Labs](https://portswigger.net/web-security/all-labs#clickjacking)
+5. DOM-Based Vulnerabilities — [7 Labs](https://portswigger.net/web-security/all-labs#dom-based-vulnerabilities)
+6. WebSockets — [3 Labs](https://portswigger.net/web-security/all-labs#websockets)
+
+### Advanced Labs:
+1. Insecure Deserialisation — [10 Labs](https://portswigger.net/web-security/all-labs#insecure-deserialization)
+2. Server-Side Template Injection — [7 Labs](https://portswigger.net/web-security/all-labs#server-side-template-injection)
+3. Web Cache Poisoning — [13 Labs](https://portswigger.net/web-security/all-labs#web-cache-poisoning)
+4. HTTP Host Header Attacks — [7 Labs](https://portswigger.net/web-security/all-labs#http-host-header-attacks)
+5. HTTP Request Smuggling — [22 Labs](https://portswigger.net/web-security/all-labs#http-request-smuggling)
+6. OAuth Authentication — [6 Labs](https://portswigger.net/web-security/all-labs#oauth-authentication)
+7. JWT Attacks — [8 Labs](https://portswigger.net/web-security/all-labs#jwt)
+8. Prototype Pollution — [10 Labs](https://portswigger.net/web-security/all-labs#prototype-pollution)
+
+### Other Resources
+I found significant benefit from the following additional resources.
+* [Micah Van Deusen’s BSCP Exam Review](https://micahvandeusen.com/burp-suite-certified-practitioner-exam-review/)
+* [Juan Botes’ BSCP Practice Lab Notes](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
+
+I noticed that majority of the YouTube channels online or included in the “Community Solutions” page for each lab did not provide explanations for how the attacks worked. However, the following YouTube channels did:
+* [Intigriti](https://www.youtube.com/@intigriti/videos)
+* [Daniel Redfern](https://www.youtube.com/@danielredfern9827/videos)
+* [Rana Khalil](https://www.youtube.com/@RanaKhalil101/videos)
+* [Seven Seas Security](https://www.youtube.com/@7SeasSecurity/videos)
+
