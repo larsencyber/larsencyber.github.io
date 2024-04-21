@@ -94,7 +94,7 @@ education:
     date_end: 2019-06-01 
   - area: Certified Red Team Operator (CRTO)
     institution: Zero Point Security
-    date_start: 2023-0-19
+    date_start: 2023-09-19
     date_end: 2023-09-19
     button:
       text: 'View Certificate'
