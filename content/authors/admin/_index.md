@@ -67,13 +67,14 @@ work:
     summary: |
       Responsibilities include:
       - Text
-  - position: Intelligence Analyst - Digital Forensics, Incident & Response (secondment)
+  - position: Intelligence Analyst - Digital Forensics, Incident & Response
     company_name: CyberCX
     company_url: ''
     company_logo: ''
     date_start: 2021-08-01
     date_end: 2021-11-01
     summary: |
+      (secondment)
       Responsibilities include:
       - Text
   - position: Defensive Security Specialist
@@ -176,5 +177,6 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
+I am an experienced cyber security practitioner with over 5 years of experience working in advisory and customer facing roles, including my current role as an Offensive Security Team Lead. I simultaneously deliver and lead a team of penetration testers to execute technical security assessments to secure customer's applications and infrastructure. 
 
-I am currently an Offensive Security Team Lead at CyberCX, where I simultenously deliver and lead penetration testers to execute technical security assessments for clients. I enjoy cultivating and developing high performing teams who provide industry leading services to protect our customer's infrastructure and systems. 
+I also enjoy researching the cyber crime landscape, tracking initial access brokers, sim swappers, crypto drainers, espionage specialists, exploit developers, violence-as-a-service, doxxers and more for my own threat research projects. 
