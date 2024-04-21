@@ -48,6 +48,44 @@ highlight_name: true
 # Author's website URL
 website: "https://larsencyber.com"
 
+work:
+  - position: Team Lead - Security Testing & Assurance
+    company_name: CyberCX
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-03-01
+    date_end: ''
+    summary: |-
+      Responsibilities include:
+      - Text
+  - position: Manager - Governance, Risk & Compliance
+    company_name: CyberCX
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-11-01
+    date_end: 2023-03-01
+    summary: |
+      Responsibilities include:
+      - Text
+  - position: Intelligence Analyst - Digital Forensics, Incident & Response (secondment)
+    company_name: CyberCX
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-08-01
+    date_end: 2021-11-01
+    summary: |
+      Responsibilities include:
+      - Text
+  - position: Defensive Security Specialist
+    company_name: Diamond Cyber Security
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-01-01
+    date_end: 2020-08-01
+    summary: |
+      Responsibilities include:
+      - Text
+
 education:
   - area: Bachelor of Counterterrorism, Security and Intelligence
     institution: Edith Cowan University
@@ -64,30 +102,6 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
-
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -163,4 +177,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I have a deep interest in threat research, and work as an offensive security team lead. I have a diverse background in strategic cyber advisory roles. 
