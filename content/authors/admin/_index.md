@@ -110,7 +110,7 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: 'Text goes here blah blah blah'
         percent: 80
         icon: devicon/python
       - name: RStudio
