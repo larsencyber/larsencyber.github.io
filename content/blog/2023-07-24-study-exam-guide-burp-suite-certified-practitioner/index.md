@@ -1,6 +1,6 @@
 ---
 title: Study & Exam Guide for the Burp Suite Certified Practitioner (BSCP)
-summary: A guide on how to pass the Burp Suite Certified Practitioner exam.
+summary: Portswigger's Web Security Academy is the best free resource to develop web application penetration testing skills. In this article, I describe my study approach and exam tips and tricks to pass the accompanying BSCP exam.
 date: 2023-07-24
 authors:
   - admin
