@@ -119,19 +119,19 @@ skills:
       - name: Cyber Threat Proficiency
         description: 'Excellent understanding of infrastructure, malware, execution chains and evasion techniques used by threat actors.'
         percent: 90
-        icon: devicon/python
+        #icon: devicon/python
       - name: Adversary Tradecraft
         description: 'Practical experience as an offensive security lead, exploiting vulnerabilities, performing privilege escalation and lateral movement.'
         percent: 100
-        icon: devicon/rstudio
+        #icon: devicon/rstudio
       - name: Enterprise IT Network Design
         description: 'Experience from architecting a hybrid on-prem and cloud based Defence secure research enclave.'
         percent: 80
-        icon: devicon/pytorch
+        #icon: devicon/pytorch
       - name: Open Source Intelligence
         description: 'Domain expert in OSINT investigations for ultra-high net worth family offices.'
         percent: 80
-        icon: devicon/pytorch
+        #icon: devicon/pytorch
   - name: Professional Skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -139,19 +139,19 @@ skills:
       - name: Critical Thinking
         description: 'Investigative mindset to understand complex problems, develop intuition and identify out-of-the-box solutions.'
         percent: 60
-        icon: person-simple-walk
+        #icon: person-simple-walk
       - name: Communication
         description: 'Confidence to tailor communication style to a wide range of stakeholders, from engineers to chief information security officers.'
         percent: 100
-        icon: cat
+        #icon: cat
       - name: Leadership
         description: 'Strong emotional intelligence to foster a collaboratige culture, embracing diversity.'
         percent: 80
-        icon: camera
+        #icon: camera
       - name: Writing
         description: '5+ years experience generating high quality client deliverable for executive and technical audiences.'
         percent: 100
-        icon: cat
+        #icon: cat
 #   Awards - Add/remove as many awards below as you like. Only `title`, `awarder`, and `date` are required. Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Women In Security Program Mentor
