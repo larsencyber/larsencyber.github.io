@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Industry Participation
+      title: Thought Leadership
       text: 'Check out my presentations, articles and podcasts below.'
       #primary_action:
       #  icon: rocket
