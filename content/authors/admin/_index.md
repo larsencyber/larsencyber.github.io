@@ -145,7 +145,7 @@ skills:
         percent: 100
         icon: cat
       - name: Leadership
-        description: 'Consistent, dependable and reliable. Strong emotional intelligence to foster a collaboratige culture, embracing diversity.'
+        description: 'Strong emotional intelligence to foster a collaboratige culture, embracing diversity.'
         percent: 80
         icon: camera
       - name: Writing
