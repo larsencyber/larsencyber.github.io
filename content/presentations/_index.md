@@ -1,17 +1,17 @@
 ---
 title: Industry Participation
-description: ""
+description: "description goes here"
 type: landing
 
 sections:
   - block: hero
     content:
       title: Industry Participation
-      text: 'View'
-      primary_action:
-        icon: rocket
-        text: Read Guide on CFP Submission
-        url: "#"
+      text: 'Check out my presentations, articles and podcasts below.'
+      #primary_action:
+      #  icon: rocket
+      #  text: Read Guide on CFP Submission
+      #  url: "#"
       #secondary_action:
       #  text: Explore More on HugoBlox.com
       #  url: https://hugoblox.com/creators/
