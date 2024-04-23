@@ -1,6 +1,6 @@
 ---
-linkTitle: Hello World
-title: Hello World
+linkTitle: Offensive Security Notes
+title: Offensive Security Notes
 ---
 
 👋 Yo! What's up.
@@ -10,5 +10,7 @@ Thanks for checking out my offensive security note page. This is a work in progr
 ## Next
 
 {{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Create your docs in just 5 minutes!" >}}
+  {{< card url="enpt" title="External Network Penetration Test" icon="document-text" subtitle="Let's breach the perimeter." >}}
+  {{< card url="wapt" title="Web Application Penetration Test" subtitle="Time to get RCE." >}}
+  {{< card url="inpt" title="Internal Network Penetration Test" subtitle="Assumed breach, let's go!" >}}
 {{< /cards >}}
