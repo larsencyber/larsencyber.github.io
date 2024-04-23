@@ -77,7 +77,9 @@ work:
     company_logo: ''
     date_start: 2019-01-01
     date_end: 2020-08-01
-    summary: ''
+    summary: '|
+    |
+    '
 
 education:
   - area: Bachelor of Counterterrorism, Security and Intelligence
