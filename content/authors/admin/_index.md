@@ -148,6 +148,10 @@ skills:
         description: 'Consistent, dependable and reliable. Strong emotional intelligence to foster a collaboratige culture, embracing diversity.'
         percent: 80
         icon: camera
+      - name: Writing
+        description: '5+ years experience generating high quality client deliverable for executive and technical audiences.'
+        percent: 100
+        icon: cat
 #   Awards - Add/remove as many awards below as you like. Only `title`, `awarder`, and `date` are required. Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Women In Security Program Mentor
