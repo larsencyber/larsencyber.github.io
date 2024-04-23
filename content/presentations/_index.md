@@ -28,5 +28,5 @@ sections:
     design:
       view: card
       spacing:
-        padding: ['2rem', 0, '2rem', 0]
+        padding: ['3rem', 0, '3rem', 0]
 ---
