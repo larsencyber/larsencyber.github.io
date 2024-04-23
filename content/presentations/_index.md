@@ -1,12 +1,12 @@
 ---
-title: Industry Participation
+title: Presentations, Publications & Podcasts
 description: "description goes here"
 type: landing
 
 sections:
   - block: hero
     content:
-      title: Thought Leadership
+      title: Presentations, Publications & Podcasts
       text: 'Check out my presentations, articles and podcasts below.'
       primary_action:
         icon: rocket
