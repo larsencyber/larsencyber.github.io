@@ -91,7 +91,7 @@ education:
     button:
       text: 'View Certificate'
       url: 'https://eu.badgr.com/public/assertions/I3ulU_uXTwyxyYywE8Soew'
-  - area: Offensive Security Certified Practitioner (OSCP)
+  - area: Offensive Security Certified Professional (OSCP)
     institution: Offensive Security
     date_start: 2023-07-01
     date_end: 2023-07-01
@@ -120,7 +120,7 @@ skills:
         description: 'Excellent understanding of infrastructure, malware, execution chains and evasion techniques used by threat actors.'
         percent: 90
         icon: devicon/python
-      - name: Comprehensive Understanding of Adversary Tradecraft
+      - name: Adversary Tradecraft
         description: 'Developed through practical experience as an offensive security lead, exploiting vulnerabilities, performing privilege escalation and lateral movement.'
         percent: 100
         icon: devicon/rstudio
@@ -128,7 +128,7 @@ skills:
         description: 'Experience from architecting a hybrid on-prem and cloud based Defence secure research enclave.'
         percent: 80
         icon: devicon/pytorch
-      - name: Open Source Intelligence Assessments
+      - name: Open Source Intelligence
         description: 'Domain expert in OSINT investigations for ultra-high net worth family offices.'
         percent: 80
         icon: devicon/pytorch
