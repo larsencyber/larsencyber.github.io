@@ -10,7 +10,7 @@ sections:
       text: 'Thank you for reviewing my work below.'
       primary_action:
         icon: microphone
-        text: 'Upcoming: BSides 2025 Presentation'
+        text: 'Hold Tight: New Presentations Coming Soon'
         url: "#"
       secondary_action:
         text: Read Blog Posts
