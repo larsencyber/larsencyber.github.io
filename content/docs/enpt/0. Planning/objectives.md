@@ -4,3 +4,7 @@ linkTitle: Objectives
 ---
 
 Text goes here blah blah
+
+Objectives
+
+Strategy
