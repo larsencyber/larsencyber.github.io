@@ -121,7 +121,7 @@ skills:
         percent: 90
         icon: devicon/python
       - name: Adversary Tradecraft
-        description: 'Developed through practical experience as an offensive security lead, exploiting vulnerabilities, performing privilege escalation and lateral movement.'
+        description: 'Practical experience as an offensive security lead, exploiting vulnerabilities, performing privilege escalation and lateral movement.'
         percent: 100
         icon: devicon/rstudio
       - name: Enterprise IT Network Design
