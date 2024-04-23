@@ -16,6 +16,7 @@ This article is for those that missed my BSides Perth 2021 talk on Performing Re
 
 {{< youtube id="opnc_3fCkkQ?t=16276" >}}
 
+
 # Performing Re-Entrancy Attacks on the Ethereum Blockchain
 ## Introduction
 Today I will be walking you through the most well known Ethereum smart contract flaw, known as the re-entrancy attack. This attack, is also known as a race-to-empty attack, which intends to recursively loop a withdrawal until a smart contract balance is emptied.
