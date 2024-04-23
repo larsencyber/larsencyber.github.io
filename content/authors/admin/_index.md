@@ -141,7 +141,7 @@ skills:
         percent: 60
         icon: person-simple-walk
       - name: Communication
-        description: 'Confidence to tailor communication style to a wide range of stakeholders, from engineers to CISOs.'
+        description: 'Confidence to tailor communication style to a wide range of stakeholders, from engineers to chief information security officers.'
         percent: 100
         icon: cat
       - name: Leadership
