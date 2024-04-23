@@ -154,6 +154,7 @@ Now using the scenario developed earlier, let's run an incident response exercis
 ![](/blog/2023-07-21-incident-response-tabletop-exercise/img12.png)
 
 **Initial Brief**
+
 To set the scene, a system administrator performs routine checks in the Microsoft Azure Security Centre and notices alerts for sign-ins from IP addresses related to suspicious activity.
 
 This is the only information which is provided to participants. At this point, participants are left to coordinate with themselves and discover how they would respond given the initial brief.
@@ -166,6 +167,7 @@ As an organiser, we can use the following questions in the orange box on the sli
 ![](/blog/2023-07-21-incident-response-tabletop-exercise/img13.png)
 
 **Information Injection #1**
+
 The first information injection confirms to the team that a real security incident has occurred. The CEO receives an extortion email demanding the business pays a ransom of 50 Bitcoins. If the ransom is not paid, the entire customer database has been threatened to be leaked to the public. The email also contains a sample of the stolen data.
 * Q1 - At this point, we need to observer if the participants have escalated the incident to the appropriate level of authority as per the plan. Is the CISO involved? This is no longer just a tactical response.
 * Q2 - Has the Incident Response Team (IRT) formed according to the cyber security incident response plan? This establishes the roles and responsibilities to ensure an organised response.
@@ -174,6 +176,7 @@ The first information injection confirms to the team that a real security incide
 ![](/blog/2023-07-21-incident-response-tabletop-exercise/img14.png)
 
 **Information Injection #2**
+
 Next, the incident response team matches the sample data from the extortion email with a customer database which is stored on a Windows Server 2019 file server. After reviewing the windows event logs, it is confirmed that a security administrator account was compromised to exfiltrate 15GB of sensitive files.
 
 At this point, participants should start connecting the information injections to build context of the incident timeline. This should make the actionable steps required to respond much clearer. 
@@ -184,6 +187,7 @@ At this point, participants should start connecting the information injections t
 ![](/blog/2023-07-21-incident-response-tabletop-exercise/img15.png)
 
 **Information Injection #3**
+
 Usually between the second and third information injection, the organiser should encourage participants to take a 10 minute break. Being a participant in these types of sessions can be quite draining and fasted paced, with a lot of condensed information in a short time frame. As the organiser, you still want long term buy-in from participants to conduct more tabletop exercises in the future.
 
 The third information injection reveals the incident response team discovered a Windows Defender for Endpoint alert of suspicious access to the LSASS service on a shared RDP server. Now participants should have a strong understanding of the incident timeline. The LSASS service is likely dumped to obtain credentials stored in the operating system.
@@ -193,6 +197,7 @@ Therefore, actions to contain, eradicate and recover from the incident should be
 ![](/blog/2023-07-21-incident-response-tabletop-exercise/img16.png)
 
 **Information Injection #4**
+
 The fourth information injection will allow participant to have a strong understanding of the incident timeline.
 
 The incident response team have discovered a Cobalt Strike implant in a temporary folder on a shared RDP server. This gives a strong indication to participants of where the threat actor performs action remotely and maintains persistence from.
@@ -202,6 +207,7 @@ The incident response team have discovered a Cobalt Strike implant in a temporar
 ![](/blog/2023-07-21-incident-response-tabletop-exercise/img17.png)
 
 **Scenario Debrief**
+
 Finally before the tabletop exercise can be completed, the organiser should reveal to participants the full scenario. For example, in our scenario, the initial brief provided context that a M365 account had been compromised. Then the first injection provided context by confirming an incident had occurred, through the extortion email mentioning exfiltration of sensitive files. The second injection provided weak context of the incident timeline, confirming a file server had been compromised. The third information injection provided fair context, confirming lateral movement through the shared RDP server. The fourth information injection provided strong context, confirming persistence occurred through the Cobalt Strike implant.
 
 At this point, the tabletop exercise is concluded and the organiser can commence the evaluation.
