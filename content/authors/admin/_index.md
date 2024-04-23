@@ -158,9 +158,8 @@ awards:
     url: https://www.awsn.org.au/initiatives/mentoring/
     date: '2023-07-01'
     awarder: Australian Women in Security Network (AWSN)
-    icon: x
-    summary: |
-      Text.
+    icon: awsn-icon.jpg
+    summary:
 ---
 I am an experienced cyber security practitioner with over 5 years of experience working in advisory and customer facing roles, including my current role as an Offensive Security Team Lead. I simultaneously deliver and lead a team of penetration testers to execute technical security assessments to secure customer's applications and infrastructure. 
 
