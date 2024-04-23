@@ -7,9 +7,9 @@ sections:
   - block: hero
     content:
       title: Presentations, Publications & Podcasts
-      text: 'Check out my presentations, articles and podcasts below.'
+      text: 'Thank you for reviewing my work below.'
       primary_action:
-        icon: rocket
+        icon: microphone
         text: 'Upcoming: BSides 2025 Presentation'
         url: "#"
       secondary_action:
