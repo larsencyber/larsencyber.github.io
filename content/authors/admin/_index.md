@@ -114,7 +114,7 @@ education:
       url: 'https://www.credly.com/badges/bee5ffc2-9ef0-425d-833e-a68fd4a10d8d/public_url'
 # Skills - Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Technical
     items:
       - name: Cyber Threat Proficiency
         description: 'Excellent understanding of infrastructure, malware, execution chains and evasion techniques used by threat actors.'
@@ -132,7 +132,7 @@ skills:
         description: 'Domain expert in OSINT investigations for ultra-high net worth family offices.'
         percent: 80
         #icon: devicon/pytorch
-  - name: Professional Skills
+  - name: Professional
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
