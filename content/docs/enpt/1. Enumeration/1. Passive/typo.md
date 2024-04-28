@@ -14,5 +14,3 @@ However, we can use this tool as a part of passive reconnaissance to identify if
 https://dnstwister.report/
 
 Tool: https://github.com/dnstwister/dnstwister
-
-

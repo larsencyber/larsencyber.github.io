@@ -16,4 +16,3 @@ https://dehashed.com/
 Whilst it is not possible to get the password or password hash from a target user on HaveIBeenPwned, it does provide us context of which database the breached credential is from. This can be used to try and find the original leaked copy of this database on underground forums and pull out the data ourselves. 
 
 https://haveibeenpwned.com/
-
