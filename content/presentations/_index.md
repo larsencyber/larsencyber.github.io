@@ -22,6 +22,7 @@ sections:
         margin: [0, 0, 0, 0]
   - block: collection
     content:
+      count: 0
       filters:
         folders:
           - presentations
