@@ -5,10 +5,11 @@ title: Offensive Security Notes
 
 👋 Yo! What's up.
 
-Thanks for checking out my offensive security note page. 
+Thanks for checking out my knowledgebase.
 
+This is where I store my go-to offensive security tips and tricks. 
 
-This is a work in progress, and just includes some of my go-to notes for penetration testing. 
+Note: All information contained in this website is for educational and research purposes, and cannot be used for illegal use.
 
 ## Next
 
