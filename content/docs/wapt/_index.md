@@ -1,5 +1,5 @@
 ---
-title: Web Application Penetration Test
+title: Web App Penetration Test
 toc: true
 ---
 
