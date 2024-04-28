@@ -4,7 +4,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "1rem"
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -23,7 +23,7 @@ sections:
         filename: banner-perth-1.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: justify; font-size: 1em;'
   - block: experience
     content:
       username: admin
