@@ -185,7 +185,7 @@ awards:
     #icon: 
     #summary: 
   - title: Guest Lecturer - Enterpise Security & Governance
-    url: hhttps://www.ecu.edu.au/schools/science/overview
+    url: https://www.ecu.edu.au/schools/science/overview
     date: '2021-03-02'
     awarder: Edith Cowan University (ECU)
     #icon: 
