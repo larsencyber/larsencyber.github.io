@@ -1,5 +1,5 @@
 ---
-title: Web Technology Discovery
+title: Web Technology
 weight: 4
 sidebar:
   open: true
