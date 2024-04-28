@@ -154,37 +154,37 @@ skills:
         #icon: cat
 #   Awards - Add/remove as many awards below as you like. Only `title`, `awarder`, and `date` are required. Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Women In Security Program Mentor
+  - title: Program Mentor
     url: https://www.awsn.org.au/initiatives/mentoring/
     date: '2023-07-01'
     awarder: Australian Women in Security Network (AWSN)
     #icon: awsn
     #summary:
-  - title: Guest Speaker - Cyber Conference Canberra
+  - title: Guest Speaker
     url: https://www.cyberconference.com.au/ 
     date: '2023-03-21'
-    awarder: Australian Information Security Association (AISA)
+    awarder: Cyber Conference Canberra - AISA
     #icon: 
     #summary:  
-  - title: Guest Speaker - Cyber Conference Melbourne
+  - title: Guest Speaker
     url: https://www.cyberconference.com.au/ 
     date: '2022-10-19'
-    awarder: Australian Information Security Association (AISA)
+    awarder: Cyber Conference Melbourne - AISA
     #icon: 
     #summary:  
-  - title: Article Author - Cyber Today Magazine
+  - title: Article Author
     url: https://cybertoday.partica.online/cyber-today/cyber-today-edition-1-2022/flipbook/34
     date: '2022-04-01'
-    awarder: Australian Information Security Association (AISA)
+    awarder: Cyber Today Magazine Ed 1 - AISA
     #icon: 
     #summary: 
-  - title: Guest Speaker - BSides
+  - title: Guest Speaker
     url: https://bsidesperth.com.au/
     date: '2021-09-10'
     awarder: BSides Perth
     #icon: 
     #summary: 
-  - title: Guest Lecturer - Enterpise Security & Governance
+  - title: Guest Lecturer
     url: https://www.ecu.edu.au/schools/science/overview
     date: '2021-03-02'
     awarder: Edith Cowan University (ECU)
