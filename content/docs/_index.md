@@ -9,7 +9,9 @@ Thanks for checking out my knowledgebase.
 
 This is where I store my go-to offensive security tips and tricks. 
 
-As always, it's important to note that all information shared on this website, is intended for educational and research purposes only. The owner is not responsible for any illegal activity as a result of using the information shared on this site. Please don't commit any crimes. 
+{{% callout note %}}
+it's important to note that all information shared on this website, is intended for educational and research purposes only. The owner is not responsible for any illegal activity as a result of using the information shared on this site. Please don't commit any crimes. 
+{{% /callout %}}
 
 ## Next
 
