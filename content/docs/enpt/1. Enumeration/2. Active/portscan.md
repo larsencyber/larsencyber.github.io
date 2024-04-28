@@ -1,5 +1,5 @@
 ---
-title: Host Discovery
+title: Port Scanning
 weight: 2
 sidebar:
   open: true
