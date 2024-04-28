@@ -9,7 +9,7 @@ Open Source Intelligence (OSINT) is the process of gathering and analysing avail
 The use of OSINT in this example is to enumerate the organisation’s external attack surface through passive techniques. From a blue team perspective, our steps taken using OSINT should generate either zero to minimal logs for alerting and detection. Passive techniques aim to replicate genuine activity and should appear as benign upon any investigation.
 
 ## Google Dorking
-Further Reading: https://www.exploit-db.com/google-hacking-database 
+Further reading: https://www.exploit-db.com/google-hacking-database 
 
 Look for emails:
 ```
