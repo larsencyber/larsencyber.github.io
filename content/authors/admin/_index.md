@@ -158,7 +158,7 @@ awards:
     url: https://www.awsn.org.au/initiatives/mentoring/
     date: '2023-07-01'
     awarder: Australian Women in Security Network (AWSN)
-    #icon: /assets/media/icons/custom/awsn-icon.jpg
+    icon: /assets/media/icons/custom/awsn-logo.png
     #summary:
   - title: Guest Speaker - Cyber Conference Canberra
     url: https://www.cyberconference.com.au/ 
