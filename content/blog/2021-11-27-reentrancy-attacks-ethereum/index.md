@@ -1,6 +1,6 @@
 ---
 title: Performing Re-Entrancy Attacks on the Ethereum Blockchain
-summary: Despite mainstream media, boot camps and universities claiming there is a cyber security skills shortage, and that you can become a professional "in just 24 weeks", it hasn't been made clear that the shortage is of experienced professionals, and not entry level candidates. This creates a "chicken and the egg" scenario, as individuals struggle to secure their first role. 
+summary: A review of the most well known Ethereum smart contract flaw, known as the "re-entrancy" attack. This attack is also known as a race-to-empty attack, which intends to recursively loop a withdrawal until a smart contract balance is emptied. I presented this attack at BSides Perth 2021.
 date: 2021-11-27
 authors:
   - admin
