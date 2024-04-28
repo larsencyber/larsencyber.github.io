@@ -1,8 +1,49 @@
 ---
-title: External Network Penetration Test
+title: External Penetration Test
 toc: true
 ---
+### Objective
+The ultimate goal is to compromise the organisation's external perimeter by gainining unauthorised remote access to information systems. 
 
-{{< cards >}}
-  {{< card url="callout" title="Callout" icon="warning" >}}
-{{< /cards >}}
+Unauthorised access to "systems" in this context, is including but not limited to the following:
+* Office 365 applications such as Outlook, SharePoint or Teams.
+* Virtual Desktop Infrastructure (VDI) via RDP, RDWeb, VPN, Citrix, or others.
+* Customer Relationship Management (CRM) systems such as Salesforce. 
+* Content Management Systems (CMS) such as WordPress. 
+* Any infrastructure running in the organisation's network, on-prem or cloud based.
+* Any other Software as a Service (SaaS) with access to sensitive information.
+
+### Scope
+The scope of an External Penetration Test should include:
+1. Public IP addresses/ranges
+2. Domains
+3. Websites 
+
+An organisation that is requesting an External Penetration Test, typically wants to understand if the external perimeter can be compromised. To ensure the intent of this can be met, it important that the scope includes sufficient coverage of the organisation's external attack surface. 
+
+Sometimes the scope that is shared doesn't provide sufficient coverage of the attack surface, or will exclude key activities such as attacking authentication portals. This can severly impact the outcome of the External Penetration Test, and may provide a false sense of assurance to stakeholders. Before commencing this type of a test, I always check if there are any adjacent targets which can be added to scope, based on some preliminary open source intelligence and passive reconnaissance. 
+
+### Methodology
+{{% steps %}}
+
+#### Step 1: Enumeration
+
+The first step here...
+
+#### Step 2: Vulnerability Scanning
+
+The second step here...
+
+#### Step 3: Authentication Attacks
+
+The third step here...
+
+#### Step 4: Vulnerability Exploitation
+
+The fourth step here...
+
+#### Step 5: Post-Exploitation
+
+The fifth step here...
+
+{{% /steps %}}
