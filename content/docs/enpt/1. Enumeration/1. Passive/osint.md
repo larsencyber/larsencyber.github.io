@@ -10,6 +10,7 @@ The use of OSINT in this example is to enumerate the organisation’s external a
 
 ## Google Dorking
 Further Reading: https://www.exploit-db.com/google-hacking-database 
+
 Look for emails:
 ```
 site:target.com "email" OR "@"
@@ -48,6 +49,3 @@ There are often a significant amount of public records available on businesses, 
 
 ## Cryptocurrency
 Explore data stored on 41 blockchains using [Blockchair](https://blockchair.com/)
-```
-https://blockchair.com/
-```
