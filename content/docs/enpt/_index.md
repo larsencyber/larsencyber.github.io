@@ -5,7 +5,7 @@ toc: true
 ### Objective
 The ultimate goal is to compromise the organisation's external perimeter by gainining unauthorised remote access to information systems. 
 
-Unauthorised access to "systems" in this context, is including but not limited to the following:
+Unauthorised access to "systems" in this context, is including but not limited to:
 * Office 365 applications such as Outlook, SharePoint or Teams.
 * Virtual Desktop Infrastructure (VDI) via RDP, RDWeb, VPN, Citrix, or others.
 * Customer Relationship Management (CRM) systems such as Salesforce. 
@@ -26,23 +26,23 @@ Sometimes the scope that is shared doesn't provide sufficient coverage of the at
 ### Methodology
 {{% steps %}}
 
-#### Step 1: Enumeration
+### Step 1: Enumeration
 
 The first step here...
 
-#### Step 2: Vulnerability Scanning
+### Step 2: Vulnerability Scanning
 
 The second step here...
 
-#### Step 3: Authentication Attacks
+### Step 3: Attacking Login Portals
 
 The third step here...
 
-#### Step 4: Vulnerability Exploitation
+### Step 4: Vulnerability Exploitation
 
 The fourth step here...
 
-#### Step 5: Post-Exploitation
+### Step 5: Post-Exploitation
 
 The fifth step here...
 

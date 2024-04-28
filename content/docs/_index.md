@@ -16,6 +16,6 @@ it's important to note that all information shared on this website, is intended 
 ## Next
 
 {{< cards >}}
-  {{< card url="enpt" title="External Network Penetration Test" icon="hero/lock-closed" subtitle="Let's breach the perimeter." >}}
+  {{< card url="enpt" title="External Penetration Test" icon="hero/lock-closed" subtitle="Let's breach the perimeter." >}}
   {{< card url="wapt" title="Web Application Penetration Test" icon="hero/bolt" subtitle="Time to get RCE." >}}
 {{< /cards >}}
