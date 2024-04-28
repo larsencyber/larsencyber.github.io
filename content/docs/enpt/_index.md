@@ -28,22 +28,32 @@ Sometimes the scope that is shared doesn't provide sufficient coverage of the at
 
 ### Step 1: Enumeration
 
-The first step here...
+* Passive reconnaissance through OSINT, Shodan, DNS and WHOIS. 
+* Active reconnaisance through Nmap port scanning and GoWitness. 
+* Building username/email list scraping LinkedIn.
+* Validating username/email list with AADInternals. 
 
 ### Step 2: Vulnerability Scanning
 
-The second step here...
+* Version enumeration through Nessus advanced network scans. 
 
 ### Step 3: Attacking Login Portals
 
-The third step here...
+* Credential stuffing attacks using historically compromised accounts.
+* Password spraying with custom context-driven password list.
+* Enumerate conditional access policies.
+* Multi-factor authentication bypasses with MFASweep. 
 
 ### Step 4: Vulnerability Exploitation
 
-The fourth step here...
+* Search exploit-db, github and google.
+* Modify proof-of-concept code for exploitation. 
 
 ### Step 5: Post-Exploitation
 
-The fifth step here...
+* Demonstrate impact with screenshots of access to sensitive assets.
+* Domain join a Windows 10 VM to Active Directory Domain, to bypass MFA or access other apps.
+* Export Global Address List from Office 365 Outlook for additional password spraying.
+* Search for other juicy secrets, keys or passwords.
 
 {{% /steps %}}
