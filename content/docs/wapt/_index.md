@@ -3,6 +3,4 @@ title: Web App Penetration Test
 toc: true
 ---
 
-{{< cards >}}
-  {{< card url="callout" title="Callout" icon="warning" >}}
-{{< /cards >}}
+Work in progress.
