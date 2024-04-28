@@ -29,7 +29,7 @@ Sometimes the scope that is shared doesn't provide sufficient coverage of the at
 ### Step 1: Enumeration
 
 * Passive reconnaissance through OSINT, Shodan, DNS and WHOIS. 
-* Active reconnaisance through Nmap port scanning and GoWitness. 
+* Active reconnaisance through Nmap port scanning. 
 * Building username/email list scraping LinkedIn.
 * Validating username/email list with AADInternals. 
 
@@ -41,7 +41,6 @@ Sometimes the scope that is shared doesn't provide sufficient coverage of the at
 
 * Credential stuffing attacks using historically compromised accounts.
 * Password spraying with custom context-driven password list.
-* Enumerate conditional access policies.
 * Multi-factor authentication bypasses with MFASweep. 
 
 ### Step 4: Vulnerability Exploitation
