@@ -14,8 +14,7 @@ If the AD Account Lockout Policy is set for 5 password attempts per 15 minutes, 
 ## Office 365 Login
 Text
 
-## Legacy Logins
-Outlook Web Access (OWA) endpoints:
-```bash
-```
+## Microsoft Exchange
 
+
+https://github.com/dafthack/MailSniper 
