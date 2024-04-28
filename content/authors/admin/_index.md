@@ -158,8 +158,38 @@ awards:
     url: https://www.awsn.org.au/initiatives/mentoring/
     date: '2023-07-01'
     awarder: Australian Women in Security Network (AWSN)
-    icon: /assets/media/icons/custom/awsn-icon.jpg
-    summary:
+    #icon: /assets/media/icons/custom/awsn-icon.jpg
+    #summary:
+  - title: Guest Speaker - Cyber Conference Canberra
+    url: https://www.cyberconference.com.au/ 
+    date: '2023-03-21'
+    awarder: Australian Information Security Association (AISA)
+    #icon: 
+    #summary:  
+  - title: Guest Speaker - Cyber Conference Melbourne
+    url: https://www.cyberconference.com.au/ 
+    date: '2022-10-19'
+    awarder: Australian Information Security Association (AISA)
+    #icon: 
+    #summary:  
+  - title: Article Author - Cyber Today Magazine
+    url: https://cybertoday.partica.online/cyber-today/cyber-today-edition-1-2022/flipbook/34
+    date: '2022-04-01'
+    awarder: Australian Information Security Association (AISA)
+    #icon: 
+    #summary: 
+  - title: Guest Speaker - BSides
+    url: https://bsidesperth.com.au/
+    date: '2021-09-10'
+    awarder: BSides Perth
+    #icon: 
+    #summary: 
+  - title: Guest Lecturer - Enterpise Security & Governance
+    url: hhttps://www.ecu.edu.au/schools/science/overview
+    date: '2021-03-02'
+    awarder: Edith Cowan University (ECU)
+    #icon: 
+    #summary: 
 ---
 I am an experienced cyber security practitioner with over 5 years of experience working in advisory and customer facing roles, including my current role as an Offensive Security Team Lead. I simultaneously deliver and lead a team of penetration testers to execute technical security assessments to secure customer's applications and infrastructure. 
 
