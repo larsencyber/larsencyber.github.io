@@ -7,10 +7,10 @@ sections:
   - block: hero
     content:
       title: Presentations, Publications & Podcasts
-      text: 'Thank you for reviewing my work below.'
+      text: 'By sharing your knowledge you will empower others to speak up, collaborate and promote innovation, driving improvements collectively. '
       primary_action:
         icon: microphone
-        text: 'Hold Tight: New Presentations Coming Soon'
+        text: 'More Coming Soon'
         url: "#"
       secondary_action:
         text: Read Blog Posts
