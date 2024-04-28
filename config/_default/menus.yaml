@@ -14,7 +14,7 @@ main:
   - name: Presentations
     url: /presentations/
     weight: 5
-  - name: Offensive Security Notes
+  - name: Knowledgebase
     url: /docs/
     weight: 7
   - name: Contact

@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2024-04-16
+date: 2024-04-28
 type: landing
 
 design:
@@ -17,8 +17,8 @@ sections:
         url: /blog/
         icon: rocket-launch
       secondary_action:
-        text: Conference Presentations
-        url: /presentations/
+        text: View Knowledgebase
+        url: /docs/
       # announcement:
       #  text: "I've just released my offensive security notes."
       #  link:
@@ -29,7 +29,7 @@ sections:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: ""
+      css_class: "min-h-screen"
       background:
         color: ""
         image:
