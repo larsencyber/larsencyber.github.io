@@ -30,8 +30,6 @@ sections:
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "min-h-screen"
-      css_class: "bg-gray-300 dark:bg-gray-800"
-      #min-hj-screen
       background:
         color: ""
         image:
@@ -54,9 +52,9 @@ sections:
   #        description: |
   #          Discord community  
   #          for support
-  #  design:
+    design:
       # Section background color (CSS class)
-      #css_class: "bg-gray-100 dark:bg-gray-800"
+      css_class: "bg-gray-100 dark:bg-gray-800"
       # Reduce spacing
       #spacing:
       #  padding: ["1rem", 0, "1rem", 0]
