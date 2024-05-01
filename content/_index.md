@@ -30,8 +30,9 @@ sections:
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "min-h-screen"
+      #min-hj-screen
       background:
-        color: ""
+        color: "shark"
         image:
           # Add your image background to `assets/media/`.
           filename: ""
@@ -54,10 +55,10 @@ sections:
   #          for support
   #  design:
       # Section background color (CSS class)
-      css_class: "bg-gray-300 dark:bg-gray-800"
+      #css_class: "bg-gray-100 dark:bg-gray-800"
       # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
+      #spacing:
+      #  padding: ["1rem", 0, "1rem", 0]
   # - block: features
   #  id: features
   #  content:
