@@ -30,9 +30,10 @@ sections:
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "min-h-screen"
+      css_class: "bg-gray-300 dark:bg-gray-800"
       #min-hj-screen
       background:
-        color: "shark"
+        color: ""
         image:
           # Add your image background to `assets/media/`.
           filename: ""
