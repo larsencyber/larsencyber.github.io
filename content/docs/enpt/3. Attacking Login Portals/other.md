@@ -11,4 +11,4 @@ Check if username enumeration exists - is there a difference in the page respons
 Search the name of the service that is running on Google and see if you can find any public documentation which includes default credentials, for example `admin:admin`.
 
 ## Authentication Bypassess
-Text
+Work in progress.

@@ -12,9 +12,9 @@ This will ensure that account lockouts do not occur during the External Penetrat
 If the AD Account Lockout Policy is set for 5 password attempts per 15 minutes, it is better to be on the safe side and still only do 2 password attempts per 15-20 minutes. 
 
 ## Office 365 Login
-Text
+Work in progress.
 
 ## Microsoft Exchange
-
+Work in progress.
 
 https://github.com/dafthack/MailSniper 
