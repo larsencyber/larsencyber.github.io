@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2024-04-28
+date: 2024-05-01
 type: landing
 
 design:
@@ -54,7 +54,7 @@ sections:
   #          for support
   #  design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-800"
+      css_class: "bg-gray-200 dark:bg-gray-800"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
