@@ -30,7 +30,7 @@ You need to identify where you want to go. Progression in the context of this ar
 
 It doesn't matter how many "years of experience" you have. I've seen people with 2 years of experience lead solution design, get executive buy-in, and assist CISOs to prepare board presentations on updated cyber security strategies. However, I've also seen people with 10 years of experience, struggle to formulate an assessment and provide actionable advice, excluding regurgitating compliance requirements.
 
-**You can earn more experience than others, in a more compressed timeline. **
+**You can earn more experience than others, in a more compressed timeline.**
 
 However, this requires you to see different scenarios - organisations with varying objectives, complexity, constraints, and maturity levels. You need the opportunity to solve a problem successfully, but also solve a problem unsuccessfully, with hiccups and mistakes along the way, which will act as lessons learned for the next pursuit. After a few years in a role, you will hit a ceiling point in learnings and growth. At this point, it's time to pivot to a new role with different responsibilities, whether that be within your current company or externally in the market.
 
