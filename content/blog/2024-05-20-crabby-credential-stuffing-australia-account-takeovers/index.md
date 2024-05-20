@@ -93,7 +93,7 @@ On 9 January 2024, the new owners changed the domain from `crabby[.]atshop[.]io`
 
 The `crabby[.]cash` website is still alive today selling compromised Australian accounts. As of 8 May 2024, a total of 19,185 accounts are for sale affecting the following brands.
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/23-crabby5.png)
-![](content/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/24-crabby6.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/24-crabby6.png)
 
 ### Owned by "Juicy"
 "Juicy" is an compromised account seller website for primarily USA, CA and UK based brands. Historically the website sold AUS compromised accounts, but that is no longer the case since the launch of "Crabby".
