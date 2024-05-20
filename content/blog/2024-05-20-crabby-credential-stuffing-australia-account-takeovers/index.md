@@ -25,7 +25,7 @@ This scenario prevents a challenge for law enforcement who wish to disrupt this 
 
 # Detailed Research
 ## 1. Australian account takeovers in 2024
-In the beginning of 2024, news headlines highlighted that thousands of Australian customers experienced their online accounts were being compromised and used for fraudulent transactions. It affected customers of many well known brands, such as Dan Murphy's, The Iconic, and Officeworks, to name a few. This caught the attention of the Prime Minister, who shared the following statement in January 2024:
+In the beginning of 2024, news headlines highlighted that thousands of Australian customers experienced their online accounts being compromised and used for fraudulent transactions. It affected customers of many well known brands, such as Dan Murphy's, The Iconic, and Officeworks, to name a few. This caught the attention of the Prime Minister, who shared the following statement in January 2024:
 ![**Australian Prime Minister Anthony Albanese**](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/2-prime-minister.png)
 >  "This is a scourge and there are so many vulnerable people being ripped off who've acted in absolutely good faith and we need to make sure they are protected." - Anthony Albanese, Prime Minister of Australia
 
@@ -66,21 +66,21 @@ The success of achieving unauthorised access to a victim's account in a credenti
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/16-cred-stuffing.png)
 [Image Credit](https://www.cloudflare.com/resources/images/slt3lc6tev37/7063QaY9i4PTXesgUmpoYk/cd8e741be8731bca5494bc14d03a134c/credential-stuffing.png)
 
-Credential stuffing attacks are also referred to as "cracking" in underground markets. To perform cracking, multiple components are required including a cracking tool/script for automating the login process and scraping account information, residential proxies to rotate and bypass IP-based restrictions, and finally "combo lists" which are a combined list of usernames/emails and passwords for the tool to automatically to attempt to authenticate to target websites, created based on historical data breaches. 
+Credential stuffing attacks are also referred to as "cracking" in underground markets. To perform cracking, multiple components are required including a cracking tool/script for automating the login process and scraping account information, residential proxies to rotate and bypass IP-based restrictions, and finally "combo lists" which are a combined list of usernames/emails and passwords for the tool to automatically attempt authentication to target websites, created based on historical data breaches. 
 
 ## 3. Types of threat actors involved
-Before proceeding, it's important to distinguish the two different types of threat actors involved in credential stuffing attacks:
-1. **Vendors** are the ones performing the credential stuffing attacks to identify valid username and password combinations to gain access to victim accounts. They sell the accounts to customers for financial gain. 
-2. **Customers** are the ones buying the compromised accounts from the vendors and are typically low-level fraudsters who need "boots on the ground" to reap any financial gain. They use the accounts to commit fraud, laundering stolen funds, or purchasing high value goods from retailers to collect and re-sell for profit. 
+Before proceeding, it's important to distinguish the two different types of threat actors involved:
+1. **Vendors** are performing the credential stuffing attacks to identify valid username and password combinations to gain access to victim accounts. They sell the accounts to customers in bulk for financial gain. 
+2. **Customers** are buying the compromised accounts from the vendors and are typically low-level fraudsters who need "boots on the ground" to reap any financial gain. They use the accounts to commit fraud, laundering stolen funds, or purchasing high value goods from retailers to collect and re-sell for profit. 
 
 ## 4. Who is selling the compromised accounts?
 ### Started with "Based"
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/17-based1.png)
 
-Compromised Australian accounts appeared as early as 31 July 2023 by a user known as "Based" (`@ImRizzler`). The accounts were sold via a Discord channel, and also two websites (`base[.]sellpass[.]io` and `base[.]rip`). The primary Telegram channel for advertising was `/basedmarket` and vouches were kept on `/basedvouches`. [Archived Telegram Channel Reference](https://telemetr.io/en/channels/1921948977-basedmarket/posts)
+Compromised Australian accounts appeared online as early as 31 July 2023 by a user known as "Based" (`@ImRizzler`). The accounts were sold via a Discord channel, and also two websites (`base[.]sellpass[.]io` and `base[.]rip`). The primary Telegram channel for advertising was `/basedmarket` and vouches were kept on `/basedvouches`. [Archived Telegram Channel Reference](https://telemetr.io/en/channels/1921948977-basedmarket/posts)
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/18-based2.jpg)
 
-### Becanme "Crabby"
+### Became "Crabby"
 On 25 November 2023, "Based" sold his Australian account shop to "Juicy", and the new shop was rebranded as "Crabby". The telegram channel `/crabby_store` was used for advertising, and the website launched to sell the accounts was `crabby[.]atshop[.]io`. 
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/19-crabby1.png)
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/20-crabby2.png)
