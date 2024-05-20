@@ -19,7 +19,7 @@ This research concluded that compromised Australian accounts were first advertis
 
 Low-level fraudsters purchasing the stolen accounts were observed to demonstrate poor operational security, often oversharing information related to their identities and the crimes they were committing. This included order reference numbers, recorded videos, and plans to collect fraudulently purchased goods including the time and store location. Whilst they are motivated by financial gain, it is clear they are also driven by the excitement and challenge of engaging in illicit activities, and would take risks in pursuit of their goals. 
 
-This scenario prevents a challenge for law enforcement who wish to disrupt this activity, due to compromised account vendors operating out of foreign jurisdictions. The key to disrupting the rise of this crime lies in targeting the demand side of the equation. By focusing on catching and prosecuting the low-level fraudsters in Australia who are buying the compromised accounts, law enforcement can set a precedent and deter others from engaging in similar activities. 
+This scenario presents a challenge for law enforcement who wish to disrupt this activity, due to compromised account vendors operating out of foreign jurisdictions. The key to disrupting the rise of this crime lies in targeting the demand side of the equation. By focusing on catching and prosecuting the low-level fraudsters in Australia who are buying the compromised accounts, law enforcement can set a precedent and deter others from engaging in similar activities. 
 
 # Detailed Research
 ## 1. Breaking news in 2024
@@ -98,10 +98,10 @@ The `crabby[.]cash` website is still alive today selling compromised Australian 
 "Juicy" is an compromised account seller website for primarily USA, CA and UK based brands. Historically the website sold AUS compromised accounts, but that is no longer the case since the launch of "Crabby".
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/25-juicy1.png)
 
-The `juicy[.]fo` website and telegram channels are maintained by by one owner called "Juicy" `@juicyyyyyu` and three administrators called "Venchu" `@Gvenchi`, "TOXIC" `@Toxlc001` and "Bobby" `@bobby2x`. "Juicy" and "Venchu" are also operator of the website's live chat for customer support. 
+The `juicy[.]fo` website and telegram channels are maintained by one owner called "Juicy" `@juicyyyyyu` and three administrators called "Venchu" `@Gvenchi`, "TOXIC" `@Toxlc001` and "Bobby" `@bobby2x`. "Juicy" and "Venchu" are also operator of the website's live chat for customer support. 
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/26-juicy2.jpg)
 
-In May 2024, "Juicy" demonstrated a change in behaviour as historic messages in the in the `/basedmarket` and `/crabby_store` telegram channels linking the "Crabby" and "Juicy" identities together started being deleted. It is assessed this is likely due to increased pressure from Australian law enforcement. The following is clear evidence, that "Juicy" directly owns and manages the "Crabby" account store:
+In May 2024, "Juicy" demonstrated a change in behaviour as historic messages in the `/basedmarket` and `/crabby_store` telegram channels linking the "Crabby" and "Juicy" identities together started being deleted. It is assessed this is likely due to increased pressure from Australian law enforcement. The following is clear evidence, that "Juicy" directly owns and manages the "Crabby" account store:
 
 #### High fidelity evidence for attribution
 ***Sale of "Email Bomber"***
@@ -139,7 +139,7 @@ Juicy and Crabby both have registered domains with the same TLD (`.fo`), and hav
 
 ***Use of privatebin.net***
 
-Crabby and Juicy both used `privatebin[.]net` as an online pastebin tool to freely shared compromised accounts in giveaways to Telegram users. This detail is also not a key indicator of attribution, but as there are a variety variety of online pastebin tools available, the TTPs are overlapping and should be mentioned. 
+Crabby and Juicy both used `privatebin[.]net` as an online pastebin tool to freely shared compromised accounts in giveaways to Telegram users. This detail is also not a key indicator of attribution, but as there are a variety of online pastebin tools available, the TTPs are overlapping and should be mentioned. 
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/36-juicy12.png)
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/37-juicy13.png)
 
@@ -177,7 +177,7 @@ In one instance, a user called "Oly" (`@jimmyweb19`) shared how they used a comp
 
 "Oly" subsequently boasted to the chat about how he had called the victim, and impersonated an Officeworks employee to ask them to provide a one-time-pass code that was sent to their mobile to authorise the transaction. He shared a video using the OTP to confirm the Officeworks order, as shown below.
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/43-jimmy2.png)
-![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/44-jimmy3.mp4)
+![](https://vimeo.com/948502697)
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/45-jimmy4.png)
 
 It is clear that customer of Crabby, like "Oly" are also driven by the excitement and challenge of engaging in illicit activities, and would take risks in pursuit of their goals for financial gain. The following was able to be derived about "Oly" from the information shared:
