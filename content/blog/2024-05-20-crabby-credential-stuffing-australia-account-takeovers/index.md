@@ -109,7 +109,7 @@ The `crabby[.]cash` and `juicy[.]fo` websites both sell the same "Email Bomber",
 
 ***Indexed telegram messages***
 The `juicy[.]fo` website has been indexed as the original chat title of the `/crabby_store` telegram channel, which is shown in a forwarded message in `/basedmarket` below. The indexed copy can be reviewed on [Telemetr](https://telemetr.io/en/channels/1921948977-basedmarket/posts). 
-![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/28-juicy4.jpg)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/28-juicy4.png)
 Additionally, the `juicy[.]fo` website was advertised on the `/crabby_store` telegram channel on multiple occasions, as shown in the images below. 
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/29-juicy5.png)
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/30-juicy6.png)
@@ -138,7 +138,7 @@ Crabby and Juicy both used `privatebin[.]net` as an online pastebin tool to free
 
 ***Website FAQ information***
 The FAQ page of Crabby and Juicy's websites include identical questions and answers, as shown in the image below.
-![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/38-juicy14.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/38-juicy14.jpg)
 
 ***Website product images***
 Both Crabby and Juicy host their website product listing images on `imgur.com`, and include the following formatting similarities:
