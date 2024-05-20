@@ -181,7 +181,7 @@ In one instance, a user called "Oly" (`@jimmyweb19`) shared how they used a comp
 
 "Oly" subsequently boasted to the chat about how he had called the victim, and impersonated an Officeworks employee to ask them to provide a one-time-pass code that was sent to their mobile to authorise the transaction. He shared a video using the OTP to confirm the Officeworks order, as shown below.
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/43-jimmy2.png)
-![](https://vimeo.com/948502697)
+{{< video src="/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/44-jimmy3.mp4" controls="yes">}}
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/45-jimmy4.png)
 
 It is clear that customer of Crabby, like "Oly" are also driven by the excitement and challenge of engaging in illicit activities, and would take risks in pursuit of their goals for financial gain. The following was able to be derived about "Oly" from the information shared:
