@@ -173,7 +173,7 @@ Multiple account selling and fraud related Telegram channels were acquired and m
 Low-level fraudsters with "boots on the ground" in Australia have been purchasing the compromised accounts from Crabby with the primary goal of monetary gain. However, these fraudsters often demonstrated poor operational security, oversharing information about the crimes they were committing.  
 
 In one instance, a user called "Oly" (`@jimmyweb19`) shared how they used a compromised Officeworks account to place an order for an iPhone 15 Pro Max for $2,337.00 AUD, sharing the following screenshot.
-![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/42-jimmy1.jpg)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/42-jimmy1.png)
 
 "Oly" subsequently boasted to the chat about how he had called the victim, and impersonated an Officeworks employee to ask them to provide a one-time-pass code that was sent to their mobile to authorise the transaction. He shared a video using the OTP to confirm the Officeworks order, as shown below.
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/43-jimmy2.png)
