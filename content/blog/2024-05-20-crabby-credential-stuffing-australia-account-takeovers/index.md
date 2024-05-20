@@ -44,7 +44,7 @@ The hijacked accounts are used for fraudulent transactions, with the primary int
 
 ### The Iconic
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/7-theiconic1.png)
-![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/8-theiconic2.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/8-theiconic2.webp)
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/9-theiconic3.png)
 
 ### Dan Murphy's
