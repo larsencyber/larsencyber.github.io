@@ -72,4 +72,8 @@ Before proceeding, it's important to distinguish the two different types of thre
 2. **Customers** are the ones buying the compromised accounts from the vendors and are typically low-level fraudsters who need "boots on the ground" to reap any financial gain. They use the accounts to commit fraud, laundering stolen funds, or purchasing high value goods from retailers to collect and re-sell for profit. 
 
 ### 4. Who is selling the compromised accounts?
-#
+#### Started with "Based"
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/17-based1.png)
+
+Compromised Australian accounts appeared as early as 31 July 2023 by a user known as "Based" (`@ImRizzler`). The accounts were sold via a Discord channel, and also two websites (`base[.]sellpass[.]io` and `base[.]rip`). The primary Telegram channel for advertising was `/basedmarket` and vouches were kept on `/basedvouches`. [Archived Telegram Channel Reference](https://telemetr.io/en/channels/1921948977-basedmarket/posts)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/18-based2.jpg)
