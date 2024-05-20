@@ -158,4 +158,94 @@ Multiple account selling and fraud related Telegram channels were acquired and m
 * "Legalized" was acquired on 24 August 2023, including the `/legalizedshop` Telegram channel, which now advertises `juicy[.]fo`.
 * "Kinder" was acquired on 20 September 2023, including `kinder[.]top` and the `/kinder` Telegram channel with 3,600 subscribers, which both now redirect and advertise `juicy[.]fo`. 
 * "TrapTop" was acquired on 13 November 2023, including the `/trapchatv6` Telegram channel, which now advertises `juicy[.]fo`.
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/40-juicy16.jpg)
 
+## 5. Who is buying the compromised accounts?
+Low-level fraudsters with "boots on the ground" in Australia have been purchasing the compromised accounts from Crabby with the primary goal of monetary gain. However, these fraudsters often demonstrated poor operational security, oversharing information about the crimes they were committing.  
+
+In one instance, a user called "Oly" (`@jimmyweb19`) shared how they used a compromised Officeworks account to place an order for an iPhone 15 Pro Max for $2,337.00 AUD, sharing the following screenshot.
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/42-jimmy1.jpg)
+
+"Oly" subsequently boasted to the chat about how he had called the victim, and impersonated an Officeworks employee to ask them to provide a one-time-pass code that was sent to their mobile to authorise the transaction. He shared a video using the OTP to confirm the Officeworks order, as shown below.
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/43-jimmy2.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/44-jimmy3.mp4)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/45-jimmy4.png)
+
+It is clear that customer of Crabby, like "Oly" are also driven by the excitement and challenge of engaging in illicit activities, and would take risks in pursuit of their goals for financial gain. The following was able to be derived about "Oly" from the information shared:
+* A fraudulent Officeworks order for $2,337.00 was placed on 8th May 2024.
+* Allegedly the order was for an iPhone 15 Pro Max, and he placed 2 other orders, for a total value of $7,200.
+* Allegedly the items were to be collected at Castle Hill Officeworks in Sydney on 9th May 2024.
+* Allegedly the orders will be picked up by "runners", which are mules doing the dirty work.
+* Victim's card is Westpac Altitude Black World Mastercard ending in 7325.
+* Victim's mobile phone ends in 155.
+* "Oly" posted a video of committing the fraudulent purchase, local time on mobile device was 9:51pm, and the video was shared on the telegram chat at 10:05pm AWST, so he could be based in Perth, Western Australia. 
+
+## 6. Recommendations
+### For users:
+1. Change your passwords for all of your accounts so that they are unique, and do not include permutations of existing passwords. 
+2. Sign up to a password manager, such as [Dashlane](https://www.dashlane.com/), to make managing your passwords easier and ensure they are unique with high complexity. 
+3. Enable multi-factor authentication, such as [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&pli=1), for access to accounts with sensitive information, or the ability to execute financial transactions, based on your personal risk tolerance. 
+4. Use a one-time email forwarding solution, such as [DuckDuckGo Email Protection](https://duckduckgo.com/email/), to keep your primary email hidden.
+
+### For companies:
+1. Implement a bot mitigation solution to block traffic from automated scripts performing credential stuffing.
+2. Enforce minimum 14 character passwords with high complexity.
+3. Ensure error messages for registration, login and password recovery do not include varying responses which could enable an adversary to enumerate valid accounts. 
+4. Enforce multi-factor authentication for accounts that transact above a specified monetary quantity, based on risk tolerance. 
+5. Restrict access to administrative web endpoints to the organisation's internal network IP range. 
+
+### For law enforcement:
+1. Catch and prosecute the low-level fraudsters in Australia who are buying the compromised accounts, to set a precedent and deter others from engaging in similar activities. 
+
+## 7. Indicators of compromise
+### Websites:
+```Text
+crabby[.]cash
+crabby[.]fo
+crabbystore.atshop[.].io
+base[.]rip
+base[.]sellpass[.]io
+juicy[.]fo
+juicy[.]atshop[.]io
+buzz[.]tf
+bin[.]camp
+kinder[.]top
+```
+### Telegram Users:
+```Text
+@ReloadThaSix
+@Reload_6
+@Reload_7
+@juicyyyyyu 
+@Gvenchi
+@pooron
+@Wealth
+@thunderstorm
+@Toxlc001 
+@bobby2x
+```
+### Telegram Channels:
+```Text
+crabby_store
+crabbychat
+JuicyOfficialLounge
+JuicyVouchCenter
+JuicyShopBomb_bot
+juicdydrop_bot
+NewJuicyShop
+juicystockupdates 
+basedmarket 
+basedvouches
+basevouches
+trapchatv6
+kinder 
+hoodupdates
+legalizedshop
+```
+### Discord Invites:
+```Text
+/WwEVuWVekT
+/AN2XBYYdyq
+/ZGK4vrtQ
+/TQxYAbxUSE
+```
