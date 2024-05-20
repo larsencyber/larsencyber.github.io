@@ -26,7 +26,7 @@ This scenario prevents a challenge for law enforcement who wish to disrupt this 
 In the beginning of 2024, news headlines highlighted that thousands of Australian customers experienced their online accounts being compromised and used for fraudulent transactions. It affected customers of many well known brands, such as Dan Murphy's, The Iconic, and Officeworks, to name a few. This caught the attention of the Prime Minister, who shared the following statement in January 2024:
 ![**Australian Prime Minister Anthony Albanese**](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/2-prime-minister.png)
 >  "This is a scourge and there are so many vulnerable people being ripped off who've acted in absolutely good faith and we need to make sure they are protected." 
-> - Anthony Albanese, Prime Minister of Australia
+> Anthony Albanese, Prime Minister of Australia
 
 Further reading:
 * [Dan Murphy's: Credential Stuffing FAQ](https://www.danmurphys.com.au/help/help-centre/articles/8820120539535-CREDENTIAL-STUFFING-FAQs)
