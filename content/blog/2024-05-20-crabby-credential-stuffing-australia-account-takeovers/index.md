@@ -57,3 +57,19 @@ The hijacked accounts are used for fraudulent transactions, with the primary int
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/14-gyg2.png)
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/15-gyg3.png)
 
+### 2. What is credential stuffing?
+Customer accounts are compromised through a "credential stuffing" attack. This attack is where a threat actors tries to authenticate to target websites using email and password combinations, or credentials, from unrelated third party data breaches. 
+
+The success of achieving unauthorised access to a victim's account in a credential stuffing attack, primarily relies on customers using the same password for multiple services, or a similar permutation of a password that has been historically compromised. This means, that once one of their online accounts has been compromised, with a email and password combination being leaked, all of their other accounts are now susceptible to unauthorised access via a credential stuffing attack.
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/16-cred-stuffing.png)
+[Image Credit](https://www.cloudflare.com/resources/images/slt3lc6tev37/7063QaY9i4PTXesgUmpoYk/cd8e741be8731bca5494bc14d03a134c/credential-stuffing.png)
+
+Credential stuffing attacks are also referred to as "cracking" in underground markets. To perform cracking, multiple components are required including a cracking tool/script for automating the login process and scraping account information, residential proxies to rotate and bypass IP-based restrictions, and finally "combo lists" which are a combined list of usernames/emails and passwords for the tool to automatically to attempt to authenticate to target websites, created based on historical data breaches. 
+
+### 3. Types of threat actors involved
+Before proceeding, it's important to distinguish the two different types of threat actors involved in credential stuffing attacks:
+1. **Vendors** are the ones performing the credential stuffing attacks to identify valid username and password combinations to gain access to victim accounts. They sell the accounts to customers for financial gain. 
+2. **Customers** are the ones buying the compromised accounts from the vendors and are typically low-level fraudsters who need "boots on the ground" to reap any financial gain. They use the accounts to commit fraud, laundering stolen funds, or purchasing high value goods from retailers to collect and re-sell for profit. 
+
+### 4. Who is selling the compromised accounts?
+#
