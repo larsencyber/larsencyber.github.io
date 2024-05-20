@@ -146,4 +146,16 @@ Both Crabby and Juicy host their website product listing images on `imgur.com`, 
 * Palm trees as background
 * Affected brand logo centred
 * Website name centred below affected brand name
-![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/39-juicy-15.jpg)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/39-juicy15.jpg)
+
+### Who is "Juicy"?
+Whilst the `juicy[.]fo` domain was only registered on 7 August 2023, a high level of maturity and sophistication was shown indicating that the website owner has had previous experience with credential stuffing and compromised account sales. 
+
+Multiple account selling and fraud related Telegram channels were acquired and merged in the early months of the Juicy shop launch to attract new customers. These channels were likely purchased for cryptocurrency with the original owners selling their hijacked accounts in bulk for the new Juicy shop. This included:
+* "Hoodupdates" was acquired on 6 August 2023, including the `/hoodupdates` Telegram channel, which now advertises `juicy[.]fo`.
+* "YSL" was acquired on 7 August 2023, including the `/juicystockupdates` Telegram channel (original channel name was changed), with 22,000 subscribers, to advertise `juicy[.]fo`. 
+* "Buzz" was acquired on 7 August 2023, including `buzz[.]tf`, `bin[.]camp` and the `/NewJuicyShop` Telegram channel (original channel name was changed), which all now redirect and advertise `juicy[.]fo`.
+* "Legalized" was acquired on 24 August 2023, including the `/legalizedshop` Telegram channel, which now advertises `juicy[.]fo`.
+* "Kinder" was acquired on 20 September 2023, including `kinder[.]top` and the `/kinder` Telegram channel with 3,600 subscribers, which both now redirect and advertise `juicy[.]fo`. 
+* "TrapTop" was acquired on 13 November 2023, including the `/trapchatv6` Telegram channel, which now advertises `juicy[.]fo`.
+
