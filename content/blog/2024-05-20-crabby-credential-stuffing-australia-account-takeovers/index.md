@@ -77,3 +77,31 @@ Before proceeding, it's important to distinguish the two different types of thre
 
 Compromised Australian accounts appeared as early as 31 July 2023 by a user known as "Based" (`@ImRizzler`). The accounts were sold via a Discord channel, and also two websites (`base[.]sellpass[.]io` and `base[.]rip`). The primary Telegram channel for advertising was `/basedmarket` and vouches were kept on `/basedvouches`. [Archived Telegram Channel Reference](https://telemetr.io/en/channels/1921948977-basedmarket/posts)
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/18-based2.jpg)
+
+#### Becanme "Crabby"
+On 25 November 2023, "Based" sold his Australian account shop to "Juicy", and the new shop was rebranded as "Crabby". The telegram channel `/crabby_store` was used for advertising, and the website launched to sell the accounts was `crabby[.]atshop[.]io`. 
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/19-crabby1.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/20-crabby2.png)
+
+At the same time, a website redirect was setup for `base[.]rip` to forward traffic to `crabby[.]atshop[.]io`, and the `base[.]sellpass[.]io` shop had included a link to the `/crabby_store` telegram channel. 
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/21-crabby3.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/22-crabby4.jpg)
+
+On 9 January 2024, the new owners changed the domain from `crabby[.]atshop[.]io` to `crabby[.]fo`, matching the same TLD as their main site `juicy[.]fo`. However, the domain was terminated by the registrar on 31 January 2024, and thus the website was updated again on 1 February 2024 to `crabby[.]cash`.  
+
+The `crabby[.]cash` website is still alive today selling compromised Australian accounts. As of 8 May 2024, a total of 19,185 accounts are for sale affecting the following brands.
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/23-crabby5.png)
+![](content/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/24-crabby6.png)
+
+#### Owned by "Juicy"
+"Juicy" is an compromised account seller website for primarily USA, CA and UK based brands. Historically the website sold AUS compromised accounts, but that is no longer the case since the launch of "Crabby".
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/25-juicy1.png)
+
+The `juicy[.]fo` website and telegram channels are maintained by by one owner called "Juicy" `@juicyyyyyu` and three administrators called "Venchu" `@Gvenchi`, "TOXIC" `@Toxlc001` and "Bobby" `@bobby2x`. "Juicy" and "Venchu" are also operator of the website's live chat for customer support. 
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/26-juicy2.jpg)
+
+In May 2024, "Juicy" demonstrated a change in behaviour as historic messages in the in the `/basedmarket` and `/crabby_store` telegram channels linking the "Crabby" and "Juicy" identities together started being deleted. It is assessed this is likely due to increased pressure from Australian law enforcement. The following is clear evidence, that "Juicy" directly owns and manages the "Crabby" account store:
+
+##### High fidelity evidence for attribution
+###### Sale of "Email Bomber"
+The `crabby[.]cash` and `juicy[.]fo` websites both sell the same "Email Bomber", which links to the telegram user `@JuicyShopBomb_bot`. The product listing on both websites includes identical text and pricing.
