@@ -197,7 +197,7 @@ It is clear that customer of Crabby, like "Oly" are also driven by the excitemen
 4. Use a one-time email forwarding solution, such as [DuckDuckGo Email Protection](https://duckduckgo.com/email/), to keep your primary email hidden.
 
 ### For companies
-1. Implement an out-of-band notification by email or mobile, when a new sign in is detected, or a privileged action is performed. 
+1. Implement an out-of-band notification to customers by email or mobile, when a new sign in is detected, or a privileged action is performed. 
 2. Implement a bot mitigation solution to block traffic from automated scripts performing credential stuffing.
 3. Enforce minimum 14 character passwords with high complexity.
 4. Ensure error messages for registration, login and password recovery do not include varying responses which could enable an adversary to enumerate valid accounts. 
