@@ -103,5 +103,11 @@ The `juicy[.]fo` website and telegram channels are maintained by by one owner ca
 In May 2024, "Juicy" demonstrated a change in behaviour as historic messages in the in the `/basedmarket` and `/crabby_store` telegram channels linking the "Crabby" and "Juicy" identities together started being deleted. It is assessed this is likely due to increased pressure from Australian law enforcement. The following is clear evidence, that "Juicy" directly owns and manages the "Crabby" account store:
 
 #### High fidelity evidence for attribution
-##### Sale of "Email Bomber"
+***Sale of "Email Bomber"***
 The `crabby[.]cash` and `juicy[.]fo` websites both sell the same "Email Bomber", which links to the telegram user `@JuicyShopBomb_bot`. The product listing on both websites includes identical text and pricing.
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/27-juicy3.jpg)
+
+***Indexed telegram messages***
+The `juicy[.]fo` website has been indexed as the original chat title of the `/crabby_store` telegram channel, which is shown in a forwarded message in `/basedmarket` below. The indexed copy can be reviewed on [Telemetr](https://telemetr.io/en/channels/1921948977-basedmarket/posts). 
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/28-juicy4.jpg)
+
