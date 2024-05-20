@@ -183,24 +183,24 @@ It is clear that customer of Crabby, like "Oly" are also driven by the excitemen
 * "Oly" posted a video of committing the fraudulent purchase, local time on mobile device was 9:51pm, and the video was shared on the telegram chat at 10:05pm AWST, so he could be based in Perth, Western Australia. 
 
 ## 6. Recommendations
-### For users:
+### For users
 1. Change your passwords for all of your accounts so that they are unique, and do not include permutations of existing passwords. 
 2. Sign up to a password manager, such as [Dashlane](https://www.dashlane.com/), to make managing your passwords easier and ensure they are unique with high complexity. 
 3. Enable multi-factor authentication, such as [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&pli=1), for access to accounts with sensitive information, or the ability to execute financial transactions, based on your personal risk tolerance. 
 4. Use a one-time email forwarding solution, such as [DuckDuckGo Email Protection](https://duckduckgo.com/email/), to keep your primary email hidden.
 
-### For companies:
+### For companies
 1. Implement a bot mitigation solution to block traffic from automated scripts performing credential stuffing.
 2. Enforce minimum 14 character passwords with high complexity.
 3. Ensure error messages for registration, login and password recovery do not include varying responses which could enable an adversary to enumerate valid accounts. 
 4. Enforce multi-factor authentication for accounts that transact above a specified monetary quantity, based on risk tolerance. 
 5. Restrict access to administrative web endpoints to the organisation's internal network IP range. 
 
-### For law enforcement:
+### For law enforcement
 1. Catch and prosecute the low-level fraudsters in Australia who are buying the compromised accounts, to set a precedent and deter others from engaging in similar activities. 
 
 ## 7. Indicators of compromise
-### Websites:
+### Websites
 ```Text
 crabby[.]cash
 crabby[.]fo
@@ -213,7 +213,7 @@ buzz[.]tf
 bin[.]camp
 kinder[.]top
 ```
-### Telegram Users:
+### Telegram Users
 ```Text
 @ReloadThaSix
 @Reload_6
@@ -226,7 +226,7 @@ kinder[.]top
 @Toxlc001 
 @bobby2x
 ```
-### Telegram Channels:
+### Telegram Channels
 ```Text
 crabby_store
 crabbychat
@@ -244,7 +244,7 @@ kinder
 hoodupdates
 legalizedshop
 ```
-### Discord Invites:
+### Discord Invites
 ```Text
 /WwEVuWVekT
 /AN2XBYYdyq
