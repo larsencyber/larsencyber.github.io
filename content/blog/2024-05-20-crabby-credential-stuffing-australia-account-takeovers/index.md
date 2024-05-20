@@ -24,7 +24,36 @@ This scenario prevents a challenge for law enforcement who wish to disrupt this 
 ## Detailed Research
 ### 1. Australian Account Takeovers in 2024
 In the beginning of 2024, news headlines highlighted that thousands of Australian customers experienced their online accounts were being compromised and used for fraudulent transactions. It affected customers of many well known brands, such as Dan Murphy's, The Iconic, and Officeworks, to name a few. This caught the attention of the Prime Minister, who shared the following statement in January 2024:
-
 ![**Australian Prime Minister Anthony Albanese**](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/2-prime-minister.png)
 >  "This is a scourge and there are so many vulnerable people being ripped off who've acted in absolutely good faith and we need to make sure they are protected." - Anthony Albanese, Prime Minister of Australia
+
+Further reading:
+* [Dan Murphy's: Credential Stuffing FAQ](https://www.danmurphys.com.au/help/help-centre/articles/8820120539535-CREDENTIAL-STUFFING-FAQs)
+* [The Iconic: Suspected Unauthorised Access](https://www.theiconic.com.au/unauthorised-access-faq/)
+* [7 News: Thousands of Aussie shoppers victim to new major hack impacting brands including Dan Murphy's, Binge and TVSN customers](https://7news.com.au/sunrise/thousands-of-aussie-shoppers-victim-to-new-major-hack-impacting-brands-including-dan-murphys-binge-and-tvsn-customers-c-13248625)
+* [The Sydney Morning Herald: Thousands of Australians hacked in credential stuffing credit card scam](https://www.smh.com.au/politics/federal/thousands-of-australians-hacked-in-credential-stuffing-credit-card-scam-20240116-p5exls.html)
+* [Yahoo News Australia: Major brands hit by credit card hack](https://au.news.yahoo.com/major-brands-hit-credit-card-234700109.html)
+* [ABC News: The Iconic isn't the only one saving your payment details.](https://www.abc.net.au/news/2024-01-13/the-iconic-fraudulent-account-access-online-shopping-safety/103310902)
+
+The hijacked accounts are used for fraudulent transactions, with the primary intention of revenue generation. Retail products with a high resale value such as phones, laptops, gift cards, headphones, watches and more were being fraudulently purchased. Here are some examples of the orders fraudulently submitted and collected by low-level fraudsters, based on images they have shared in Telegram chat rooms:
+#### Officeworks
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/3-officeworks1.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/4-officeworks2.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/5-officeworks3.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/6-officeworks4.png)
+
+#### The Iconic
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/7-theiconic1.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/8-theiconic2.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/9-theiconic3.png)
+
+#### Dan Murphy's
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/10-danmurphys1.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/11-danmurphys2.jpg)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/12-danmurphys3.jpg)
+
+#### Guzman Y Gomez
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/13-gyg1.jpg)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/14-gyg2.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/15-gyg3.png)
 
