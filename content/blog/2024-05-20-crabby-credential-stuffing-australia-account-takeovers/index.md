@@ -110,4 +110,40 @@ The `crabby[.]cash` and `juicy[.]fo` websites both sell the same "Email Bomber",
 ***Indexed telegram messages***
 The `juicy[.]fo` website has been indexed as the original chat title of the `/crabby_store` telegram channel, which is shown in a forwarded message in `/basedmarket` below. The indexed copy can be reviewed on [Telemetr](https://telemetr.io/en/channels/1921948977-basedmarket/posts). 
 ![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/28-juicy4.jpg)
+Additionally, the `juicy[.]fo` website was advertised on the `/crabby_store` telegram channel on multiple occasions, as shown in the images below. 
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/29-juicy5.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/30-juicy6.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/31-juicy7.png)
 
+***Indexed terms of service***
+An indexed Google search of the `crabbystore[.]atshop[.]io` website reveals that the original terms of service included a direct reference to `juicy[.]fo` as the owners and operators of the Crabby store.
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/32-juicy8.png)
+
+#### Low fidelity evidence for attribution
+***Use of atshop.io***
+Crabby and Juicy have both utilised subdomains on the `atshop[.]io` digital e-commerce website to sell their compromised accounts. 
+* Crabby stopped using `crabbystore[.]atshop[.]io` on 9 January 2024, and switched to `crabby[.]fo`.
+* Juicy stopped using `juicy[.]atshop[.]io` on 20 February 2024 and switched to `juicy[.]fo`. 
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/33-juicy9.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/34-juicy10.png)
+
+***Domain TLD and registrars***
+Juicy and Crabby both have registered domains with the same TLD (`.fo`), and have used the same domain registrars. This detail is not a key indicator of attribution, but the TTPs are overlapping and should be mentioned.
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/35-juicy11.jpg)
+
+***Use of privatebin.net***
+Crabby and Juicy both used `privatebin[.]net` as an online pastebin tool to freely shared compromised accounts in giveaways to Telegram users. This detail is also not a key indicator of attribution, but as there are a variety variety of online pastebin tools available, the TTPs are overlapping and should be mentioned. 
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/36-juicy12.png)
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/37-juicy13.png)
+
+***Website FAQ information***
+The FAQ page of Crabby and Juicy's websites include identical questions and answers, as shown in the image below.
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/38-juicy14.png)
+
+***Website product images***
+Both Crabby and Juicy host their website product listing images on `imgur.com`, and include the following formatting similarities:
+* 600 pixels wide by 350 pixels height
+* Palm trees as background
+* Affected brand logo centred
+* Website name centred below affected brand name
+![]()
