@@ -22,7 +22,7 @@ Low-level fraudsters purchasing the stolen accounts were observed to demonstrate
 This scenario prevents a challenge for law enforcement who wish to disrupt this activity, due to compromised account vendors operating out of foreign jurisdictions. The key to disrupting the rise of this crime lies in targeting the demand side of the equation. By focusing on catching and prosecuting the low-level fraudsters in Australia who are buying the compromised accounts, law enforcement can set a precedent and deter others from engaging in similar activities. 
 
 # Detailed Research
-## 1. Australian account takeovers in 2024
+## 1. Breaking news in 2024
 In the beginning of 2024, news headlines highlighted that thousands of Australian customers experienced their online accounts being compromised and used for fraudulent transactions. It affected customers of many well known brands, such as Dan Murphy's, The Iconic, and Officeworks, to name a few. This caught the attention of the Prime Minister, who shared the following statement in January 2024:
 ![**Australian Prime Minister Anthony Albanese**](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/2-prime-minister.png)
 >  "This is a scourge and there are so many vulnerable people being ripped off who've acted in absolutely good faith and we need to make sure they are protected." 
