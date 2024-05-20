@@ -146,4 +146,4 @@ Both Crabby and Juicy host their website product listing images on `imgur.com`, 
 * Palm trees as background
 * Affected brand logo centred
 * Website name centred below affected brand name
-![]()
+![](/blog/2024-05-20-crabby-credential-stuffing-australia-account-takeovers/content/39-juicy-15.jpg)
