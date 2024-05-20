@@ -11,8 +11,6 @@ tags:
   - credential stuffing
 image:
   caption: 
-design:
-  spacing: "1rem"
 ---
 # Abstract
 In January 2024, breaking headlines were made by national Australian news agencies that 50+ major Australian brands such as Officeworks, The Iconic, and Dan Murphy's had customer accounts compromised through credential stuffing attacks. Victim customers reported stolen funds and credit card fraud.
