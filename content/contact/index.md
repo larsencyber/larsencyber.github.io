@@ -9,4 +9,4 @@ Everytime I set up a custom email inbox for a personal blog, I basically end com
 
 For now, if you desperately want to get in touch with me, please just send me a message on LinkedIn!
 
-📨 LinkedIn: [@larsencyber](https://www.linkedin.com/in/jacobcyber/)
+📨 LinkedIn: [@larsencyber](https://www.linkedin.com/in/larsencyber/)
